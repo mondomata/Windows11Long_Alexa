@@ -19,7 +19,7 @@ Telepítési útmutató:
 
 4. Csatold az USB tárolót ahhoz a géphez, amelyikre Windowst akarsz telepíteni.
 
-5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc,Del,F2,F8,F9,F10,F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
+5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc, Del, F2, F8, F9, F10, F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
 
 6. Válaszd ki rendszer betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő (lehet, hogy a boot menü Mass Storage néven mutatja az USB-t).
 
