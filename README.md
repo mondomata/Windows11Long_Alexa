@@ -41,4 +41,4 @@ Hosszú távú automatikus rendszer frissítés a stabilitáshoz, biztonsághoz.
 
 <sup>⚠*Bátrabb, tapasztalt felhasználóknak. Külön partícióra másolva az ISO kibontott tartalmát, onnan a setup.exe-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel.</sup>
 <hr>
-<tt></tt>💻A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</tt>
+<tt>💻A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</tt>
