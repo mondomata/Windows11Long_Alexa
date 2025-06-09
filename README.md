@@ -1,5 +1,5 @@
-# Windows11Long_Alexa
-Windows 11 Hun LTSC "Alexa"
+# Windows11Long_Alexa🛟
+(Windows 11 LTSC 2024 Hun "Alexa")
 
 Letöltési hely: ...hamarosan itt ...
 
