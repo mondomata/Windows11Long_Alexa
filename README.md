@@ -28,9 +28,11 @@ secureboot, és TPM2 ellenőrzés, RAM minimum ellenőrzés (a gyártói telepí
 Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban; (⛔ emiatt utólag felesleges külső debloating és disable telemetry, meg hasonló parancs programok használata)
 online Microsoft fiók (az "élénk online érdeklődés" elhárítására); helyi fióknév (rendszergazda) választás és felhasználó fiók létrehozás történik;
 online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
+
 😎 Ami BENNE van 👀 :
 
-Windows program: Edge, Jegyzettömb, Microsoft Store.
+Hosszú távú automatikus rendszer frissítés a stabilitáshoz, biztonsághoz...
+
 .Alexa mappa: MS aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 🥇intel driver telepítő, és AMD driver telepítő, DirectX telepítő... 💥Telepítés után azonnal ajánlott a procidnak megfelelő driver telepítés. (Az .Alexa mappa külön is megtalálható az iso letöltőhelyen, érdemes letölteni és a benne lévő újabb fájlokat a régiek helyére/mellé beemelni, használni az új vagy régebbi Windowson) ✅ Telepítve az alábbi gépen: intel i3 7.gen CPU /elavult/, integrált GPU, 16 GB DDR4 RAM, 64 GB SSD tárhely.✅ Jól funkcionál!
 ⚠*Bátrabb, tapasztalt felhasználóknak. Külön partícióra másolva az ISO kibontott tartalmát, onnan a setup.exe-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel.
