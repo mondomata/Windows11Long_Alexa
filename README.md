@@ -28,7 +28,7 @@ Telepítési útmutató:
 😈 A telepítésből KIMARAD 💩 :
 
 SecureBoot és TPM2 ellenőrzés, RAM minimum ellenőrzés (a gyártói telepítő ezek nélkül nem működik részletek);
-Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver, lásd a csatolt fájlban;
+Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver;
 online Microsoft fiók (az "élénk online érdeklődés" elhárítására); helyi fióknév (rendszergazda) választás és felhasználó fiók létrehozás történik;
 online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
 
