@@ -7,7 +7,7 @@ Letöltési hely: <a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL
 
 A <tt>*Windows11Long_Alexa*</tt> Windows telepítő a gyári Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, stabilabb, mint a Windows 11 Pro <sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja</sup> (teljesen sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat). Minden Windows közül a leghosszabb távon (5 év) támogatott, nem igényel manuális karbantartást, az automatikus rendszer frissítések "atombiztosak", mert felesleges "fícsöröktől" mentesek. 
 Az "Alexa" ezt azzal fejeli meg, hogy a rendszer a gyáritól eltérően nem igényli a SecureBoot /biztonságos rendszerindítás/, TPM2 /biztonsági modul/, és egyéb olyan kritériumok betartását, ami miatt a Windows 11 "régi" gépekre nem telepíthető. (Az elvárás annyi, hogy legyen a gépben lehetőleg 4 GB RAM / ~64 GB üres tárhely, és lehetőleg BIOS/EFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik...)
-<object data="https://m.youtube.com/watch?v=Z-8IMalnQ2E"></object>
+<a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">youtube Alexa</a>
 
 Telepítési útmutató:
 
