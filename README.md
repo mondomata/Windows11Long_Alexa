@@ -1,6 +1,6 @@
 # Windows11Long_Alexa🪟🛟
 (Windows 11 Long Time Support Chanel - Hun "Alexa") 
-<sup>Ez a csatornamon levő Windows11H_Alexa tovább fejlesztéseként készült.</sup>
+<sup>Ez a kiadás a csatornámon levő Windows11H_Alexa tovább fejlesztéseként készült.</sup>
 
 Letöltési hely: <a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank">Windows11Long_Alexa.iso (MEGA)</a> 
 
