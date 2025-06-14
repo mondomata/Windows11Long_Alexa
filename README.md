@@ -10,6 +10,7 @@ A <tt>*Windows11Long_Alexa*</tt> Windows telepítő a gyári Microsoft Windows 1
 Minden Windows közül a leghosszabb távon (Long... 10 év!) támogatott, nem igényel manuális karbantartást, a kizárólag szolgáltatási és biztonsági frissítésekkel rendelkező update-k atombiztosak és betonstabilak.
 
 Az "Alexa" ezt azzal fejeli meg, hogy a rendszer a gyáritól eltérően nem igényli a SecureBoot /biztonságos rendszerindítás/, TPM2 /biztonsági modul/, és egyéb olyan kritériumok betartását, ami miatt a Windows 11 "régi" gépekre nem telepíthető. (Az elvárás annyi, hogy legyen a gépben lehetőleg 4 GB RAM / ~64 GB üres tárhely, és lehetőleg BIOS/EFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik...)
+
 <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">
 📽️youtube: Long Alexa</a>
 <object data="https://m.youtube.com/watch?v=Z-8IMalnQ2E"></object>
