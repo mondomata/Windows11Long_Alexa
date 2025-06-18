@@ -18,7 +18,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a rendszer a gyáritól eltérően nem ig�
 Telepítési útmutató:
 
 🛠️
-1. Töltsd le fenti linken az iso fájlt (4.68GB), majd a Balena Etcher-t  <a href="https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe">ide kattintva.</a>  | ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust! ⛔.
+1. Töltsd le fenti linken a ...Alexa.iso fájlt (4.68GB), majd a Balena Etcher-t  <a href="https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe">ide kattintva.</a>  | ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust! ⛔.
 
 2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Balena Etcher-t.
 
