@@ -11,8 +11,7 @@ Minden Windows közül a leghosszabb távon (Long... 10 év!) támogatott, nem i
 
 Az "Alexa" ezt azzal fejeli meg, hogy a rendszer a gyáritól eltérően nem igényli a SecureBoot /biztonságos rendszerindítás/, TPM2 /biztonsági modul/, és egyéb olyan kritériumok betartását, ami miatt a Windows 11 "régi" gépekre nem telepíthető. (Az elvárás annyi, hogy legyen a gépben lehetőleg 4 GB RAM / ~64 GB üres tárhely, és lehetőleg BIOS/EFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik...)
 
-<a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">
-![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575) Long Alexa</a>
+<a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575) Long Alexa</a>
 
 Telepítési útmutató:
 
