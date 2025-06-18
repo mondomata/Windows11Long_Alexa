@@ -1,4 +1,4 @@
-# Windows11Long_Alexa🪟🛟
+# Windows11Long_Alexa![{0BA92C3C-B400-4651-88AF-529E0AB25C0B}](https://github.com/user-attachments/assets/07ee3eb5-eaa3-4350-887d-3a4e7aa77b15)🛟
 (Windows 11 LTSC Hu "Alexa") 
 <sup>Ez a telepítő kiadás a csatornámon levő Windows11H_Alexa tovább fejlesztéseként készült.🤗</sup>
 
