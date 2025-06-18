@@ -28,7 +28,7 @@ Telepítési útmutató:
 
 5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc, Del, F2, F8, F9, F10, F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
 
-6. Válaszd ki rendszer betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő (lehet, hogy a boot menü Mass Storage néven mutatja az USB-t).
+6. Válaszd ki rendszer betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő <sub>(lehet, hogy a boot menü Mass Storage néven mutatja az USB-t)</sub>.
 
 7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. A telepítés elején: partícionálásnál ügyelj, hogy mit választasz, legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (előtte ments minden fontos dolgot a lemezről, mert teljes törlés lesz). (Ajánlott legalábbis 64 GB üres hely.) Ezen kívül csak felhasználó nevet kell majd választanod, minden más automatikus. KÉSZ. Időigény: kb. 20 perc internet kapcsolat nélkül (igen, ez is lehetséges a gyári telepítőtől eltérően!), átlagos internet sebesség és régebbi proci + SSD esetén + 2-3 perc.
 
