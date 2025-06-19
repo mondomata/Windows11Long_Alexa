@@ -40,9 +40,9 @@ Telepítés:
 😜Online Microsoft fiók (az "élénk online érdeklődés" elhárítására); ( 😇 csak helyi fióknév választás és létrehozás történik! )
 😜Online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
 
-😎 Ami BENNE van 👀 :
+😎 <b>Ami BENNE van</b> 👀 :
 
-Hosszú távú automatikus rendszer frissítés a stabilitáshoz, biztonsághoz...
+Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biztonsághoz...
 
 😇.Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 🥇intel driver telepítő, és AMD driver telepítő, DirectX telepítő (pl. játékosoknak)... 💥
