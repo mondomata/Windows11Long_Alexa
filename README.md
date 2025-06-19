@@ -13,7 +13,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575) Windows 11 Long Alexa</a>
 
-Telepítési útmutató:
+Telepítési adathordozó készítése:
 
 🛠️
 1. Töltsd le fenti linken a ...Alexa.iso fájlt (4.68GB), majd a Balena Etcher-t  <a href="https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe">ide kattintva.</a>  | ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust! ⛔.
@@ -22,20 +22,23 @@ Telepítési útmutató:
 
 3. Válaszd ki a [Flash from File]-t, tallózd be a fentről letöltött ISO fájlt. A [Select Target] gombbal válaszd ki írásra az USB tárolód. [Flash] gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (5-8 perc az írás).
 
+Telepítés:
+
+🛠️
 4. Csatold az USB tárolót ahhoz a géphez, amelyikre Windowst akarsz telepíteni.
 
 5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc, Del, F2, F8, F9, F10, F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
 
 6. Válaszd ki rendszer betöltéshez (boot) az USB tárolót, elindul a Windows 11 telepítő <sub>(lehet, hogy a boot menüben Mass Storage néven látható az USB-t)</sub>.
 
-7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein. A telepítés elején: partícionálásnál ügyelj, hogy mit választasz, legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (előtte ments minden fontos dolgot a lemezről, mert teljes törlés lesz). (Ajánlott legalábbis 64 GB üres hely.) Ezen kívül csak felhasználó nevet kell majd választanod, minden más automatikus. KÉSZ. Időigény: kb. 20 perc internet kapcsolat nélkül (igen, ez is lehetséges a gyári telepítőtől eltérően!), átlagos internet sebesség és régebbi proci + SSD esetén + 2-3 perc.
+7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein: 1. Tárhely választás, azaz partícionálás: ügyelj, hogy mit választasz, legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (még telepítés előtt ments minden fontos dolgot a lemezről, mert teljes törlés lesz). 2. Ezen kívül csak felhasználó nevet kell majd választanod, minden más automatikus. KÉSZ.🔮 Időigény: kb. 20-30 perc internet kapcsolat nélkül, átlagos internet sebesség és régebbi gép esetén + 3-5 perc.
 
 😈 A telepítésből KIMARAD 💩 :
 
 😜SecureBoot és TPM2 ellenőrzés, RAM minimum ellenőrzés (a gyártói Win 11 Pro telepítő ezek nélkül nem működik);
 😜Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver;
-😜online Microsoft fiók (az "élénk online érdeklődés" elhárítására); ( 😇 csak helyi fióknév választás és létrehozás történik! )
-😜online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
+😜Online Microsoft fiók (az "élénk online érdeklődés" elhárítására); ( 😇 csak helyi fióknév választás és létrehozás történik! )
+😜Online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
 
 😎 Ami BENNE van 👀 :
 
