@@ -13,18 +13,16 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575) Windows 11 Long Alexa</a>
 
-Telepítési adathordozó készítése:
+🛠️Telepítési adathordozó készítése:
 
-🛠️
 1. Töltsd le fenti linken a ...Alexa.iso fájlt (4.68GB), majd a Balena Etcher-t  <a href="https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe">ide kattintva.</a>  | ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust! ⛔.
 
 2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Balena Etcher-t.
 
 3. Válaszd ki a [Flash from File]-t, tallózd be a fentről letöltött ISO fájlt. A [Select Target] gombbal válaszd ki írásra az USB tárolód. [Flash] gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (5-8 perc az írás).
 
-Telepítés:
+🛠️Telepítés:
 
-🛠️
 4. Csatold az USB tárolót ahhoz a géphez, amelyikre Windowst akarsz telepíteni.
 
 5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc, Del, F2, F8, F9, F10, F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
