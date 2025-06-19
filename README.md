@@ -6,10 +6,10 @@ Letöltési hely: <tt><a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-S
 
 <sup>😷 iso fájl eredetiség ellenőrző összeg / SHA256:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>
 
-A <tt>*Windows11Long_Alexa*</tt> Windows telepítő a gyári Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, sokkal stabilabb, mint a Windows 11 Pro <sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja</sup> (teljesen sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat, nagy előnye a 11 Pro-val szemben, hogy nem "zaklat" állandó "fícsör" vagy funkció frissítéssel, ami túl sokszor destabilizálja kiadásakor a Windows 11 Pro-t; a javítások végeláthatatlan sorának érkezéséig meg bosszankodik a felhasználó!). 
+A <tt>*Windows11Long_Alexa*</tt> Windows telepítő a gyári Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, sokkal stabilabb, mint a Windows 11 Pro <sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja</sup>, teljesen sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat, nagy előnye a 11 Pro-val szemben, hogy nem "zaklat" állandó "fícsör" vagy funkció frissítéssel, ami túl sokszor destabilizálja kiadásakor a Windows 11 Pro-t; a javítások végeláthatatlan sorának érkezéséig meg bosszankodik a felhasználó!). 
 Minden Windows közül a leghosszabb távon (Long... 10 év!) támogatott, nem igényel manuális karbantartást, a kizárólag szolgáltatási és biztonsági frissítésekkel rendelkező update-k atombiztosak és betonstabilak.
 
-Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (1-2 lépésre) leegyszerűsíti a telepítést és nem igényli a Windows 11-nél megszokott gép-korlátozásokat. (Az elvárás annyi, hogy legyen a gépben lehetőleg 4 GB RAM / ~64 GB üres tárhely, és lehetőleg BIOS/EFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik...)
+Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem igényli a Windows 11 Pro-nál megszokott gép-korlátozásokat. (Az elvárás annyi, hogy legyen a gépben lehetőleg 4 GB RAM / ~64 GB üres tárhely, és lehetőleg BIOS/EFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik...)
 
 <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575) Windows 11 Long Alexa</a>
 
@@ -32,19 +32,19 @@ Telepítési útmutató:
 
 😈 A telepítésből KIMARAD 💩 :
 
-SecureBoot és TPM2 ellenőrzés, RAM minimum ellenőrzés (a gyártói telepítő ezek nélkül nem működik részletek);
-Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver;
-online Microsoft fiók (az "élénk online érdeklődés" elhárítására); helyi fióknév (rendszergazda) választás és felhasználó fiók létrehozás történik;
-online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
+😜SecureBoot és TPM2 ellenőrzés, RAM minimum ellenőrzés (a gyártói Win 11 Pro telepítő ezek nélkül nem működik);
+😜Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver;
+😜online Microsoft fiók (az "élénk online érdeklődés" elhárítására); ( 😇 csak helyi fióknév választás és létrehozás történik! )
+😜online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
 
 😎 Ami BENNE van 👀 :
 
 Hosszú távú automatikus rendszer frissítés a stabilitáshoz, biztonsághoz...
 
-.Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
+😇.Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 🥇intel driver telepítő, és AMD driver telepítő, DirectX telepítő (pl. játékosoknak)... 💥
 
-<sub>Egy rendkívül kellemes használati tapasztalat a Long_Alexával: bár eredetileg a build frissítést letiltottam a telepítőben, de visszakapcsolás esetén végrehajtja a Windows Update /26100.4351 build-re/, és <i>Windows 11 IoT Enterprise</i>-ra vált, ami 5 helyett 10 évig élvezi a MS támogatást👍😁! /A Long_Alexa telepítő azért nem készült IoT-alapon, mert az kizárólag angol nyelven létezik./ A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltem telepítés után a github.com-on lévő Crap Fixer (❁´◡`❁) programcsomaggal is.
+<sub>🎆Egy rendkívül kellemes használati tapasztalat a Long_Alexával: bár eredetileg a build frissítést letiltottam a telepítőben, de visszakapcsolás esetén végrehajtja a Windows Update /26100.4351 build-re/, és <i>Windows 11 IoT Enterprise</i>-ra vált, ami 5 helyett 10 évig élvezi a MS támogatást👍😁! /A Long_Alexa telepítő azért nem készült IoT-alapon, mert az kizárólag angol nyelven létezik./ A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltem telepítés után a github.com-on lévő Crap Fixer (❁´◡`❁) programcsomaggal is.
  ![iot](https://github.com/user-attachments/assets/73d5327f-9d72-4455-8000-437a496c7806)
 </sub>
 
