@@ -54,4 +54,4 @@ Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biz
 
 <sup>⚠*Bátrabb, tapasztalt felhasználóknak. Külön partícióra másolva az ISO kibontott tartalmát, onnan a setup.exe-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen.intel CPU, integrált GPU, NVME SSD</sup>
 <hr>
-<tt>💻A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</tt>
+<tt><sub>💻A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</sub></sub></tt>
