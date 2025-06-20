@@ -29,7 +29,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 6. Válaszd ki rendszer betöltéshez (boot menu) az USB tárolót, elindul a Windows 11 telepítő <sub>(lehet, hogy a listán Mass Storage néven látható az USB)</sub>.
 
-7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein: 1. Tárhely választás, azaz partícionálás: ügyelj, hogy mit választasz, legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️még telepítés megkezdés előtt ments minden fontos dolgot a lemezről, mert teljes törlés lesz). 2. Ezen kívül csak felhasználó nevet kell majd választanod, minden más automatikus. KÉSZ.🔮 Időigény: kb. 20-30 perc internet kapcsolat nélkül, átlagos internet sebesség és régebbi gép esetén + 3-5 perc.
+7. Haladj végig a magyar nyelvű telepítő egyszerű lépésein: 1. Tárhely választás, azaz partícionálás: ügyelj, hogy mit választasz, legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ha minden partíciót törölsz, még telepítés megkezdés előtt ments minden fontos dolgot a lemezről, mert a meglévő op.rendszert és egyéb adatot is törli a telepítő⚠️). 2. Ezen kívül csak felhasználó nevet kell majd választanod, minden más automatikus. KÉSZ.🔮 Időigény: kb. 20-30 perc internet kapcsolat nélkül, átlagos internet sebesség és régebbi gép esetén + 3-5 perc.
 
 😈 A telepítésből KIMARAD 💩 :
 
