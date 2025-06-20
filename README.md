@@ -45,9 +45,9 @@ Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biz
 😇.Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 🥇intel driver telepítő, és AMD driver telepítő, DirectX telepítő (pl. játékosoknak)... 💥
 
-<sub>🎆Egy rendkívül kellemes használati tapasztalat a Long_Alexával: bár eredetileg a build frissítést letiltottam a telepítőben, de visszakapcsolás esetén végrehajtja a Windows Update /26100.4351 build-re/, és <i>Windows 11 IoT Enterprise</i>-ra vált, ami 5 helyett 10 évig élvezi a MS támogatást👍😁! /A Long_Alexa telepítő azért nem készült IoT-alapon, mert az kizárólag angol nyelven létezik./ A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltem telepítés után a github.com-on lévő Crap Fixer (❁´◡`❁) programcsomaggal is.
+<sub>🎆Egy rendkívül kellemes használati tapasztalat a Long_Alexával: bár eredetileg a build frissítést letiltottam a telepítőben, de visszakapcsolás esetén végrehajtja a Windows Update /26100.4351 build-re/, és <i>Windows 11 IoT Enterprise</i>-ra vált, ami 5 helyett 10 évig élvezi a MS támogatást👍😁! /A Long_Alexa telepítő azért nem készült IoT-alapon, mert az kizárólag angol nyelven létezik./ </sub>
  ![iot](https://github.com/user-attachments/assets/73d5327f-9d72-4455-8000-437a496c7806)
-</sub>
+<sub>A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltem telepítés után a github.com-on lévő Crap Fixer (❁´◡`❁) programcsomaggal is.</sub>
 
 <sup>⚠*Bátrabb, tapasztalt felhasználóknak. Külön partícióra másolva az ISO kibontott tartalmát, onnan a setup.exe-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen.intel CPU, integrált GPU, NVME SSD</sup>
 <hr>
