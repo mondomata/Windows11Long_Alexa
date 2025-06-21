@@ -33,9 +33,9 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 😈 A telepítésből KIMARAD 💩 :
 
-😜SecureBoot és TPM2 ellenőrzés, RAM minimum ellenőrzés (a gyártói Win 11 Pro telepítő ezek nélkül nem működik);
+😜Hardver összetevők ellenőrzése (a gyártói Win 11 Pro telepítő enélkül nem működik);
 😜Windows haszontalanságok: nyomkövető és reklám programok, egyéb "hulladék" ~50 szoftver;
-😜Online Microsoft fiók (az "élénk online érdeklődés" elhárítására); ( 😇 csak helyi fióknév választás és létrehozás történik! )
+😜Online Microsoft fiók (az MS élénk érdeklődése elhárítására); ( 😇 csak helyi fióknév választás és létrehozás történik! )
 😜Online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
 
 😎 <b>Ami BENNE van</b> 👀 :
