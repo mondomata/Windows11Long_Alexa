@@ -28,8 +28,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 🛠️Telepítés:
 
-4. Csatold az USB tárolót ahhoz a géphez, amelyikre Windowst akarsz telepíteni.
-
+4. Dugd az USB tárolót a 'cél' gépbe.
 5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc, Del, F2, F8, F9, F10, F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
 
 6. Válaszd ki rendszer betöltéshez (boot menu) az USB tárolót, elindul a Windows 11 telepítő <sub>(lehet, hogy a listán Mass Storage néven látható az USB)</sub>.
