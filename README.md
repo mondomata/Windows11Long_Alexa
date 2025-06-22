@@ -16,7 +16,7 @@
 A <tt>*Windows11Long_Alexa*</tt> Windows telepítő a gyári Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, sokkal stabilabb, mint a Windows 11 Pro <sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja</sup>, teljesen sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. A 11 Pro-val szemben nem "zaklat" állandó "fícsör" vagy funkció frissítéssel, ami túl sokszor destabilizálja kiadásakor a Pro-t; a javítások végeláthatatlan sorának érkezéséig meg bosszankodik a felhasználó! 
 Minden Windows közül a leghosszabb távon (Long... 10 év!) támogatott, nem igényel manuális karbantartást, a funkciók nélküli, kizárólag szolgáltatási és biztonsági frissítésekkel rendelkező update-k atombiztosak és betonstabilak.
 
-Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 Pro-nál megszokott gép-korlátozásokkal. (Az elvárás annyi, hogy legyen a gépben lehetőleg 4 GB RAM / ~64 GB üres tárhely, és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik...)
+Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 Pro-nál megszokott gép-korlátozásokkal. (Az elvárás annyi, hogy legyen a gépben 4 GB RAM / ~64 GB tárhely, és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik...)
 
 🛠️Telepítési adathordozó készítése:
 
