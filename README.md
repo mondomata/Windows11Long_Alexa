@@ -2,8 +2,10 @@
 (Windows 11 LTSC Hu "Alexa") 
 <sup>Ez a telepítő kiadás a csatornámon levő Windows11H_Alexa tovább fejlesztéseként készült. (●'◡'●) Az Alexa névnek semmi köze az azonos hangzású multihoz.</sup>
 
-Letöltés <a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank">Windows11Long_Alexa.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</a>
+Letöltés 
+<a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank">Windows11Long_Alexa.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</a>
 Bemutató
+
 <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</a>
 
 
