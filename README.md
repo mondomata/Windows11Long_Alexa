@@ -56,6 +56,7 @@ Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biz
 
 <sub>(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltem telepítés után a github.com-on lévő Crap Fixer programcsomaggal is.</sub>
 
-<sup>⚠*Bátrabb, tapasztalt felhasználóknak. Külön, egy kb 10GB-os partícióra másolva az ISO kibontott tartalmát, onnan a setup.exe-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel.(Windows Helyreállítási módban, Parancssort választva, <tt>C:\setup</tt> [Enter]-rel indítva a telepítőt, törölhető a meglévő Windows is.) A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen.intel CPU, integrált GPU, NVME SSD</sup>
+<sup>⚠*Bátrabb, tapasztalt felhasználóknak. Külön, egy kb 10GB-os partícióra másolva az ISO kibontott tartalmát, onnan a setup.exe-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. A fent írtak szerinti külön partícióról Windows Helyreállítási módban, Parancssort választva, <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, így törölhető a meglévő Windows is USB tároló nélkül.
+A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen.intel CPU, integrált GPU, NVME SSD</sup>
 <hr>
 <tt><sub>💻A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</sub></sub></tt>
