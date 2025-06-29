@@ -58,7 +58,7 @@ Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biz
 
 ⚠*Bátrabb, tapasztalt felhasználóknak. Külön, egy kb 10GB-os partícióra másolva az ISO kibontott tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
 Telepítés közben felül is írható a meglévő Windows így:
-a fent írtak szerinti külön partícióról Windows Helyreállítási módban (ezt *[Ctrl]* bill. nyomva tartva és a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben Troubleshot>Command Prompt, magyarul Parancssort választva, <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja.
+a fent írtak szerinti kb 10GB-os külön partícióra másold át a csatolt iso tartalmát. Windows Helyreállítási módban (ezt *[Ctrl]* bill. nyomva tartva és a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben Troubleshot>Command Prompt, magyarul Parancssort választva, <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja.
 
 <sup>A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen.intel CPU, integrált GPU, NVME SSD</sup>
 <hr>
