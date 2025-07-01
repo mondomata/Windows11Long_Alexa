@@ -55,9 +55,8 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 <sub>(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltem telepítés után a github.com-on lévő Crap Fixer programcsomaggal is.</sub>
 
-⚠*Bátrabb, tapasztalt felhasználóknak. Külön, egy kb 10GB-os partícióra másolva az ISO kibontott tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
-Telepítés közben felül is írható a meglévő Windows így:
-a fent írtak szerinti kb 10GB-os külön partícióra másold át a csatolt iso tartalmát. Windows Helyreállítási módban (ezt *[Ctrl]* bill. nyomva tartva és a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben Troubleshot>Command Prompt, magyarul Parancssort választva, <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja.
+⚠*Bátrabb, tapasztalt felhasználóknak. Egy kb 10GB-os partícióra másolva a megnyitott ISO tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
+Telepítés közben felül is írható a meglévő Windows így: egy kb. 10GB-os partícióra másold át a megnyitott ISO tartalmát. Windows Helyreállítási Módban (ezt *[Ctrl]* bill.-t nyomva tartva és a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben Troubleshot>Command Prompt, magyarul Parancssort választva, <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja.
 
 <sup>A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen.intel CPU, integrált GPU, NVME SSD</sup>
 <hr>
