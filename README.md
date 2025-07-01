@@ -48,10 +48,9 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 - 😇 .Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 - 🥇 intel driver telepítő, és AMD driver telepítő, DirectX telepítő (pl. játékosoknak)... 💥
 
-<sub>🎆 Opció: a Windows Update 26100.4351 build-re, és <i>Windows 11 IoT Enterprise</i>-ra vált, ami 5 helyett 10 évig élvezi a MS támogatást👍😁!</sub>
-
-<sub>/A Long_Alexa telepítő azért nem készült IoT-vel mert az IoT telepítő angol nyelvű, ez sokakat elriaszthat./ 
- ![iot](https://github.com/user-attachments/assets/73d5327f-9d72-4455-8000-437a496c7806) </sub>
+<sub>🎆 Opció: a Windows Update 26100.4351 build-re, és <i>Windows 11 IoT Enterprise</i>-ra vált, ami 5 helyett 10 évig élvezi a MS támogatást👍😁!
+/A Long_Alexa telepítő azért nem készült IoT-vel mert az IoT telepítő angol nyelvű, ez sokakat elriaszthat./</sub> 
+ 
 
 <sub>(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltem telepítés után a github.com-on lévő Crap Fixer programcsomaggal is.</sub>
 
