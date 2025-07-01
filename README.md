@@ -59,6 +59,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 Telepítés közben felül is írható a meglévő Windows így: egy kb. 10GB-os partícióra másold át a megnyitott ISO tartalmát. Windows Helyreállítási Módban (ezt *[Ctrl]* bill.-t nyomva tartva és a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben Troubleshot>Command Prompt, magyarul Parancssort választva, <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja.
 
-<sup>A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen.intel CPU, integrált GPU, NVME SSD</sup>
 <hr>
+<sup>A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen.intel CPU, integrált GPU, NVME SSD</sup>
+
 <tt><sub>💻A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</sub></sub></tt>
