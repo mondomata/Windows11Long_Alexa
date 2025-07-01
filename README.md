@@ -2,11 +2,11 @@
 (Windows 11 LTSC Hu "Alexa") 
 <sup>Ez a telepítő kiadás a csatornámon levő Windows11H_Alexa tovább fejlesztéseként készült. (●'◡'●) Az Alexa névnek semmi köze az azonos hangzású multihoz.</sup>
 
-🇭🇺Letöltés 
+Letöltés: 
 
 <a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank">Windows11Long_Alexa.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</a>
 
-▶️Bemutató
+▶️Bemutató:
 
 <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</a>
 
@@ -37,17 +37,16 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 😈 A telepítésből KIMARAD 💩 :
 
-😜Hardver összetevők ellenőrzése (a gyártói Win 11 Pro telepítő enélkül nem működik);
-😜Windows haszontalanságok: nyomkövető és reklám/hirdetés programok, egyéb "hulladék" ~50 szoftver;
-😜Online Microsoft fiók (az MS élénk érdeklődése elhárítására); ( 😇 csak helyi fióknév választás és létrehozás történik! )
-😜Online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
+- 😜Hardver összetevők ellenőrzése (a gyártói Win 11 Pro telepítő enélkül nem működik);
+- 😜Windows haszontalanságok: nyomkövető és reklám/hirdetés programok, egyéb "hulladék" ~50 szoftver;
+- 😜Online Microsoft fiók (az MS élénk érdeklődése elhárítására); ( 😇 csak helyi fióknév választás és létrehozás történik! )
+- 😜Online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]).
 
 😎 <b>Ami BENNE van</b> 👀 :
 
-Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biztonsághoz...
-
-😇.Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
-🥇intel driver telepítő, és AMD driver telepítő, DirectX telepítő (pl. játékosoknak)... 💥
+- Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biztonsághoz...
+- 😇.Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
+- 🥇intel driver telepítő, és AMD driver telepítő, DirectX telepítő (pl. játékosoknak)... 💥
 
 <sub>🎆 Opció: a Windows Update 26100.4351 build-re, és <i>Windows 11 IoT Enterprise</i>-ra vált, ami 5 helyett 10 évig élvezi a MS támogatást👍😁!</sub>
 
