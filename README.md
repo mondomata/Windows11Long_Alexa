@@ -44,9 +44,9 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 😎 <b>Ami BENNE van</b> 👀 :
 
-- Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biztonsághoz...
-- 😇.Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
-- 🥇intel driver telepítő, és AMD driver telepítő, DirectX telepítő (pl. játékosoknak)... 💥
+- 💫 Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biztonsághoz...
+- 😇 .Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
+- 🥇 intel driver telepítő, és AMD driver telepítő, DirectX telepítő (pl. játékosoknak)... 💥
 
 <sub>🎆 Opció: a Windows Update 26100.4351 build-re, és <i>Windows 11 IoT Enterprise</i>-ra vált, ami 5 helyett 10 évig élvezi a MS támogatást👍😁!</sub>
 
