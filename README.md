@@ -2,7 +2,7 @@
 (Windows 11 LTSC Hu "Alexa") 
 <sup>Ez a telepítő kiadás a csatornámon levő Windows11H_Alexa tovább fejlesztéseként készült. (●'◡'●) Az Alexa névnek semmi köze az azonos hangzású multihoz.</sup>
 
-▶️Letöltés: 
+▶️Letöltés: <sup>😷 iso fájl eredetiség ellenőrző összeg / SHA256:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup> 
 
 <a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank">Windows11Long_Alexa.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</a>
 
@@ -10,8 +10,6 @@
 
 <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</a>
 
-
-<sup>😷 iso fájl eredetiség ellenőrző összeg / SHA256:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>
 
 A <tt>*Windows11Long_Alexa*</tt> Windows telepítő a gyári Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, sokkal stabilabb, mint a Windows 11 Pro <sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja</sup>, teljesen sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. A 11 Pro-val szemben nem "zaklat" állandó "fícsör" vagy funkció frissítéssel, ami túl sokszor destabilizálja kiadásakor a Pro-t; a javítások végeláthatatlan sorának érkezéséig meg bosszankodik a felhasználó! 
 Minden Windows közül a leghosszabb távon (Long... 10 év!) támogatott, nem igényel manuális karbantartást, a funkciók nélküli, kizárólag szolgáltatási és biztonsági frissítésekkel rendelkező update-k atombiztosak és betonstabilak.
