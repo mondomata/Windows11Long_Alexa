@@ -18,11 +18,11 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 🛠️Telepítési adathordozó készítése:
 
-1. Töltsd le fenti linken a ...Alexa.iso fájlt (4.68GB), majd a Balena Etcher-t  <a href="https://github.com/balena-io/etcher/releases/download/v2.1.0/balenaEtcher-2.1.0.Setup.exe">ide kattintva.</a>  | ⛔ Kivételesen NE használj ehhez a telepítőhöz Rufust! ⛔.
+1. Töltsd le fenti linken a ...Alexa.iso fájlt (4.68GB), majd a Rufust <a href="https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9p.exe">ide kattintva.</a>
 
-2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Balena Etcher-t.
+2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Rufust.
 
-3. Válaszd ki a [Flash from File]-t, tallózd be a fentről letöltött ISO fájlt. A [Select Target] gombbal válaszd ki írásra az USB tárolód. [Flash] gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (5-8 perc az írás).
+3. A Rufusban válaszd ki az USB tárolód (device/eszköz), majd tallózd be a fentről letöltött ISO fájlt (boot select). Más beállításon ne módosíts. A Start/Indítás gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás).
 
 🛠️Telepítés:
 
