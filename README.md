@@ -38,16 +38,16 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 - 😜Hardver összetevők ellenőrzése (a gyártói Win 11 Pro telepítő enélkül nem működik);
 - 😜Windows haszontalanságok: nyomkövető és reklám/hirdetés programok, egyéb "hulladék" ~50 szoftver;
 - 😜Online Microsoft fiók a Microsoft élénk érdeklődése elhárítására; ( 😇 csak helyi fióknév választás és létrehozás történik! )
-- 😜Online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]). <sub>🎆 Tipp: ha netkábel aljzat nélküli laptopod van, csatold a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd.<sup>
+- 😜Online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]). <sub>🎆 Tipp: ha netkábel aljzat nélküli laptopod van, csatold a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a <a href="https://www.iobit.com/en/driver-booster.php">Driver Booster</a><sup>
 
 
 😎 <b>Ami BENNE van</b> 👀 :
 
 - 💫 Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biztonsághoz...
 - 😇 .Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
-- 🥇 intel driver telepítő, és AMD driver telepítő, DirectX telepítő (pl. játékosoknak)... 💥
+- 🥇 intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD driver telepítő link és Driver Booster link... 💥
 
-<sub>(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltem telepítés után a github.com-on lévő Crap Fixer programcsomaggal is.</sub>
+<sub>(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> programcsomaggal is 2 kattintással elvégezhető szinte minden.</sub>
 
 ⚠*Bátrabb, tapasztalt felhasználóknak. Egy kb 10GB-os partícióra másolva a megnyitott ISO tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
 
