@@ -22,7 +22,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Rufust.
 
-3. A Rufusban válaszd ki az USB tárolód (device/eszköz), majd tallózd be a fentről letöltött ISO fájlt (boot select). Más beállításon ne módosíts. A Start/Indítás gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás).
+3. A Rufust elindítva válaszd ki az USB tárolód (device/eszköz), majd tallózd be a fentről letöltött ISO fájlt (boot select). Más beállításon ne módosíts. A Start/Indítás gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás).
 
 🛠️Telepítés:
 
