@@ -7,7 +7,6 @@
 (<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
 
 ▶️Bemutató:
-
 <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</a>
 
 
