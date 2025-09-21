@@ -16,7 +16,7 @@ Minden Windows közül a leghosszabb távon (Long... 10 év!) támogatott, nem i
 
 Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 Pro-nál megszokott hardver korlátozásokkal. (Min. 4 GB RAM / ~64 GB tárhely, és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik...)
 
-🛠️Telepítési adathordozó készítése:
+🛠️Telepítési adathordozó készítése (<sup>Windows-on</sup>):
 
 1. Töltsd le fenti linken a ...Alexa.iso fájlt (4.68GB), majd a Rufust (3.16) <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡➡➡ide kattintva.</a>
 
