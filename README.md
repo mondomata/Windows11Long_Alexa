@@ -1,7 +1,7 @@
 # Windows11Long_Alexa 💥
 (Windows 11 LTSC Hu "Alexa") 
 <sup>Ez a telepítő kiadás a csatornámon levő Windows11H_Alexa tovább fejlesztéseként készült. (●'◡'●) Az Alexa névnek semmi köze az azonos hangzású multihoz.
-(<tt>Jegyzet 2025. 9. 24.: NEM készül Windows 11 25H2 Alexa kiadás! A Microsoft által kiadott 25H2 rendszerkép semmiféle kódbázis fejlesztést/javítást nem tartalmaz az előző kiadáshoz képest - mint amilyenből az "Alexa" telepítő készült, a "fejlesztésként" reklámozott funkciók és más változások lényeges elemei - különösen az AI-val összefüggésben - semmilyen értékes fejlesztést nem adnak a rendszerhez, sőt valószínűsíthető, hogy sokkal inkább a felhasználó még mélyebb szintű megfigyelését teszik lehetővé a Microsoft számára.)</tt> 
+(<tt>Jegyzet 2025. 9. 24.: NEM készül Windows 11 25H2 Alexa kiadás! A Microsoft által kiadott 25H2 rendszerkép semmiféle kódbázis fejlesztést/javítást nem tartalmaz az előző kiadáshoz képest - mint amilyenből az "Alexa" telepítő készült -, a "fejlesztésként" reklámozott funkciók és más változások lényeges elemei - különösen az AI-val összefüggésben - semmilyen értékes fejlesztést nem adnak a rendszerhez, sőt valószínűsíthető, hogy sokkal inkább a felhasználó még mélyebb szintű megfigyelését teszik lehetővé a Microsoft részéről.)</tt> 
 </sup>
 
 ▶️Letöltés:
