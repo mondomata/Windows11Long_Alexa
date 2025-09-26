@@ -16,11 +16,13 @@
 A <tt>*Windows11Long_Alexa*</tt> Windows telepítő a gyári Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, sokkal stabilabb, mint a Windows 11 Pro <sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja*</sup>, teljesen sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. Nem "zaklat" állandó "fícsör" vagy funkció frissítéssel, ami túl sokszor destabilizálja kiadásakor a Pro-t; a javítások végeláthatatlan sorának érkezéséig meg bosszankodik a felhasználó! 
 Minden Windows közül a leghosszabb távon (Long = 10 év!) támogatott, nem igényel manuális karbantartást, a kizárólag szolgáltatási és biztonsági frissítésekkel rendelkező update-k atombiztosak és betonstabilak.
 
-Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 Pro-nál megszokott hardver korlátozásokkal. *Min. 4 GB RAM / ~25 GB tárhely (ajánlva 60), és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik.*
+Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 Pro-nál megszokott hardver korlátozásokkal. 
+
+*Min. 4 GB RAM / ~25 GB tárhely (ajánlva 60), és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik.*
 
 🛠️Telepítési adathordozó készítése (<sup>Windows-on</sup>):
 
-1. Töltsd le fenti linken a <b>Windows11Long_Alexa.iso</b> fájlt (4.68GB), majd a Rufust (3.16) <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡ide kattintva.</a>
+1. Töltsd le fenti linken a <b>Windows11Long_Alexa.iso</b> fájlt <sup>(4.68GB)</sup>, majd a Rufust (3.16) <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡ide kattintva.</a>
 
 2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Rufust.
 
