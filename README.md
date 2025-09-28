@@ -1,7 +1,7 @@
 # Windows11Long_Alexa 💥
 
 <sup>(●'◡'●) Az Alexa névnek semmi köze az azonos hangzású multihoz.
-(<tt>Jegyzet 2025. 9. 24.: NEM készül Windows 11 25H2 Alexa kiadás! Értelmetlen lenne!)</tt> 
+(<tt>Jegyzet 2025. 9. 24.: NEM készül Windows 11 25H2 Alexa kiadás! Nincs hozzáadott értéke! A Windows 10 2025.10.15-től csak Microsoft fiókkal refisztrálva kap biztonsági frissítéseket!🤬)</tt> 
 </sup>
 
 ▶️Letöltés:
