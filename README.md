@@ -18,7 +18,7 @@ Minden Windows közül a leghosszabb távon (Long = 10 év!) támogatott, nem ig
 
 Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 Pro-nál megszokott hardver korlátozásokkal. 
 
-*Min. 4 GB RAM / ~25 GB tárhely (ajánlva 60), és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik.*
+*Min. 4 GB RAM / min.~30 GB tárhely (ajánlva 60+), és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik.*
 
 🛠️Telepítési adathordozó készítése (<sup>Windows-on</sup>):
 
