@@ -20,7 +20,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 *Min. 4 GB RAM / min.~30 GB tárhely (ajánlva 60+), és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik.*
 
-🛠️Telepítési adathordozó készítése (<sup>Windows-on</sup>):
+🛠️<b>Telepítési adathordozó készítése</b> (<sup>Windows-on</sup>):
 
 1. Töltsd le fenti linken a <b>Win11Long_Alexa.iso-t</b> <sup>(4.68GB)</sup>, majd a <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡Rufust</a>.
 
@@ -28,7 +28,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 3. A Rufust elindítva válaszd ki az USB tárolód (device/eszköz), majd tallózd be a fentről letöltött ISO fájlt (rendszerindító/boot select). Más beállításon ne módosíts. A Start/Indítás gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás).
 
-🛠️Telepítés:
+🛠️<b>Telepítés</b>:
 
 4. Dugd az USB tárolót a 'cél' gépbe.
 5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc, Del, F2, F8, F9, F10, F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
