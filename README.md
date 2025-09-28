@@ -13,7 +13,7 @@
 <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank">Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</a>
 
 📢
-A <tt>*Win11Long_Alexa*</tt> Windows telepítő a gyári Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, sokkal stabilabb, mint a Windows 11 Pro <sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja*</sup>, teljesen sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. Nem "zaklat" állandó "fícsör" vagy funkció frissítéssel, ami túl sokszor destabilizálja kiadásakor a Pro-t; a javítások végeláthatatlan sorának érkezéséig meg bosszankodik a felhasználó! 
+A <tt>*Win11Long_Alexa*</tt> Windows telepítő a gyári Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, sokkal stabilabb, mint a többi Windows<sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja*</sup>, teljesen sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. Nem "zaklat" állandó "fícsör" vagy funkció frissítéssel, ami túl sokszor destabilizálja kiadásakor a Pro-t; a javítások végeláthatatlan sorának érkezéséig meg bosszankodik a felhasználó! 
 Minden Windows közül a leghosszabb távon (Long = 10 év!) támogatott, nem igényel manuális karbantartást, kizárólag szolgáltatási és biztonsági rendszer frissítések stabil, gyors rendszert eredményeznek régebbi gépen is.
 
 Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 Pro-nál megszokott hardver korlátozásokkal. 
