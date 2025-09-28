@@ -24,7 +24,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 1. Töltsd le fenti linken a <b>Win11Long_Alexa.iso-t</b> <sup>(4.68GB)</sup>, majd a Rufust (3.16) <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡ide kattintva.</a>
 
-2. Csatolj egy legalább 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Rufust.
+2. Csatolj egy min. 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Rufust.
 
 3. A Rufust elindítva válaszd ki az USB tárolód (device/eszköz), majd tallózd be a fentről letöltött ISO fájlt (rendszerindító/boot select). Más beállításon ne módosíts. A Start/Indítás gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás).
 
