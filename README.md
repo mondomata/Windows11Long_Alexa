@@ -1,6 +1,6 @@
 # Windows11Long_Alexa 💥
 
-<sup>Ez a telepítő kiadás a csatornámon levő Windows11H_Alexa tovább fejlesztéseként készült. (●'◡'●) Az Alexa névnek semmi köze az azonos hangzású multihoz.
+<sup>(●'◡'●) Az Alexa névnek semmi köze az azonos hangzású multihoz.
 (<tt>Jegyzet 2025. 9. 24.: NEM készül Windows 11 25H2 Alexa kiadás! Értelmetlen lenne!)</tt> 
 </sup>
 
