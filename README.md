@@ -35,7 +35,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 6. Válaszd ki rendszer betöltéshez (boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a listán Mass Storage néven látható az USB)</sub>.
 
-7. Két egyszerű lépés:
+7. Két egyszerű lépés (magyarul):
    1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ így még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
    2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. KÉSZ.🔮
 
