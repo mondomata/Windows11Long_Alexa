@@ -54,12 +54,12 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 - 🥇 intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD driver telepítő link és Driver Booster link... 💥
 
 <sub>(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. 
-
-Angol nyelvű powershell parancs futtatási lehetőség a rendszer tisztításhoz (5*): 
+</sub>
+Powershell parancs futtatási lehetőség a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
 ~~~
 & ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
 ~~~
-</sub>
+
 <hr>
 ⚠*Bátrabb, tapasztalt felhasználóknak. Egy kb 10GB-os partícióra másolva a megnyitott ISO tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
 
