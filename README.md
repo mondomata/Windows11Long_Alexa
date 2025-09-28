@@ -53,8 +53,9 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 - 😇 .Alexa mappa: Microsoft aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 - 🥇 intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD driver telepítő link és Driver Booster link... 💥
 
-<sub>(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. 
-</sub>
+(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. 
+
+
 Powershell parancs futtatási lehetőség a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
 ~~~
 & ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
