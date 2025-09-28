@@ -14,7 +14,7 @@
 
 
 A <tt>*Windows11Long_Alexa*</tt> Windows telepítő a gyári Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, sokkal stabilabb, mint a Windows 11 Pro <sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja*</sup>, teljesen sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. Nem "zaklat" állandó "fícsör" vagy funkció frissítéssel, ami túl sokszor destabilizálja kiadásakor a Pro-t; a javítások végeláthatatlan sorának érkezéséig meg bosszankodik a felhasználó! 
-Minden Windows közül a leghosszabb távon (Long = 10 év!) támogatott, nem igényel manuális karbantartást, a kizárólag szolgáltatási és biztonsági frissítésekkel rendelkező update-k atombiztosak és betonstabilak.
+Minden Windows közül a leghosszabb távon (Long = 10 év!) támogatott, nem igényel manuális karbantartást, kizárólag szolgáltatási és biztonsági rendszer frissítések stabil, gyors rendszert eredményeznek régebbi gépen is.
 
 Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 Pro-nál megszokott hardver korlátozásokkal. 
 
@@ -33,15 +33,17 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 4. Dugd az USB tárolót a 'cél' gépbe.
 5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc, Del, F2, F8, F9, F10, F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
 
-6. Válaszd ki rendszer betöltéshez (boot menu) az USB tárolót, elindul a Windows 11 telepítő <sub>(lehet, hogy a listán Mass Storage néven látható az USB)</sub>.
+6. Válaszd ki rendszer betöltéshez (boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a listán Mass Storage néven látható az USB)</sub>.
 
-7. Haladj végig a magyar nyelvű telepítő két egyszerű lépésén:1️⃣ Tárhely választás, azaz partícionálás: ügyelj, hogy mit választasz, legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ha minden partíciót törölsz, még telepítés megkezdés előtt ments minden fontos dolgot a lemezről, mert a meglévő op.rendszert és egyéb adatot is törli a telepítő⚠️). 2️⃣ Ezen kívül csak felhasználó nevet kell majd választanod, minden más automatikus. KÉSZ.🔮
+7. Két egyszerű lépés:
+   1️⃣ Tárhely választás, azaz partícionálás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ha minden partíciót törölsz, még telepítés megkezdés előtt ments minden fontos dolgot a lemezről, mert a meglévő op.rendszert és egyéb adatot is törli a telepítő⚠️).
+   2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. KÉSZ.🔮
 
 😈 A telepítésből KIMARAD 💩 :
 
 - 😜Hardver összetevők ellenőrzése (a gyártói Win 11 Pro telepítő enélkül nem működik);
 - 😜Windows haszontalanságok: nyomkövető és reklám/hirdetés programok, egyéb "hulladék" ~50 szoftver;
-- 😜Online Microsoft fiók a Microsoft élénk érdeklődése elhárítására; ( 😇 csak helyi fióknév választás és létrehozás történik! )
+- 😜Online Microsoft fiók a Microsoft élénk érdeklődése elhárítására; 
 - 😜Online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]). <sub>🎆 Tipp: ha netkábel aljzat nélküli laptopod van, csatold a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a <a href="https://www.iobit.com/en/driver-booster.php">Driver Booster</a><sup>
 
 
@@ -52,7 +54,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 - 🥇 intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD driver telepítő link és Driver Booster link... 💥
 
 <sub>(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> programcsomaggal is 2 kattintással elvégezhető szinte minden.</sub>
-
+<hr>
 ⚠*Bátrabb, tapasztalt felhasználóknak. Egy kb 10GB-os partícióra másolva a megnyitott ISO tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
 
 USB tároló nélküli telepítés közben felülírható a meglévő Windows így ("tiszta" telepítés): egy kb. 10GB-os partícióra másold át a megnyitott ISO tartalmát. Windows Helyreállítási Módban (ezt *[Shift]* bill.-t nyomva tartva és a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben Troubleshot>Command Prompt, magyarul Parancssort választva, majd begépelve: <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja. Ha hibát jelez a Parancssor, egyszerűen ismételd meg a parancs kiadását így: <tt>D:\setup</tt> [Enter] vagy <tt>E:\setup</tt> [Enter]
