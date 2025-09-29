@@ -39,7 +39,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
    1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ így még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
    2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
 
-😈 Az Alexa telepítőből KIMARAD 💩 :
+😈 <b>Az Alexa telepítőből KIMARAD</b> 💩 :
 
 - 😜Hardver összetevők ellenőrzése (secure boot, TPM2: a gyártói Win 11 telepítő enélkül nem működik);
 - 😜Windows haszontalanságok: nyomkövető és reklám/hirdetés programok, egyéb "hulladék" ~50 szoftver;
@@ -69,4 +69,4 @@ USB tároló nélküli telepítés közben felülírható a meglévő Windows í
 <hr>
 <sup>A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
 
-<tt><sub>💻A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</sub></sub></tt>
+<tt><sub>🤗A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</sub></sub></tt>
