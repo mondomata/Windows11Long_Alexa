@@ -39,7 +39,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
    1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ így még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
    2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
 
-## 😈 <b>Az Alexa telepítőből KIMARAD</b> 💩 :
+## 😈 <b>Az Alexa telepítőből KIMARADT sz@rságok</b> 💩 :
 
 - 😜Hardver összetevők ellenőrzése (secure boot, TPM2: a gyártói Win 11 telepítő enélkül nem működik);
 - 😜Windows haszontalanságok: nyomkövető és reklám/hirdetés programok, egyéb "hulladék" ~50 szoftver;
