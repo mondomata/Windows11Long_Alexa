@@ -60,7 +60,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 ~~~
 & ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
 ~~~
-💯 thanks for Raphire 🙏 (https://github.com/Raphire/Win11Debloat)
+<sup>💯 thanks for Raphire 🙏 (https://github.com/Raphire/Win11Debloat)</sup>
 <hr>
 ⚠*Bátrabb, tapasztalt felhasználóknak. Egy kb 10GB-os partícióra másolva a megnyitott ISO tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
 
