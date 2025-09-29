@@ -22,7 +22,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 🛠️<b>Telepítési adathordozó készítése</b> (<sup>Windows-on</sup>):
 
-1. Töltsd le fenti linken a <b>Win11Long_Alexa.iso-t</b> <sup>(4.68GB)</sup>, majd a <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡Rufust</a>.
+1. Töltsd le fenti linken a <tt><b>Win11Long_Alexa.iso-t</b></tt> <sup>(4.68GB)</sup>, majd a <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡Rufust</a>.
 
 2. Csatolj egy min. 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Rufust.
 
