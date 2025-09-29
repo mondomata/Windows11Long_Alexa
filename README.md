@@ -59,16 +59,17 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 <sup>
 🥇Powershell parancs futtatási lehetőség a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
+</sup>
 ~~~
 & ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
 ~~~
-💯 thanks for Raphire 🙏 (https://github.com/Raphire/Win11Debloat)</sup>
-<hr>
+<sup>
+💯 thanks for Raphire 🙏 (https://github.com/Raphire/Win11Debloat)
 </sup>
-
+<hr>
 <sub>⚠*Bátrabb, tapasztalt felhasználóknak. Egy kb 10GB-os partícióra másolva a megnyitott ISO tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
 
-USB tároló nélküli telepítés közben felülírható a meglévő Windows így ("tiszta" telepítés): egy kb. 10GB-os partícióra másold át a megnyitott ISO tartalmát. Windows Helyreállítási Módban (ezt *[Shift]* bill.-t nyomva tartva és a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben Troubleshot>Command Prompt, magyarul Parancssort választva, majd begépelve: <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja. Ha hibát jelez a Parancssor, egyszerűen ismételd meg a parancs kiadását így: <tt>D:\setup</tt> [Enter] vagy <tt>E:\setup</tt> [Enter]
+<tt>USB tároló/"pendrájv" nélküli telepítés</tt> közben felülírható a meglévő Windows így ("tiszta" telepítés): egy kb. 10GB-os partícióra másold át a megnyitott ISO tartalmát. Windows Helyreállítási Módban (ezt *[Shift]* bill.-t nyomva tartva és a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben Troubleshot>Command Prompt, magyarul Parancssort választva, majd begépelve: <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja. Ha hibát jelez a Parancssor, egyszerűen ismételd meg a parancs kiadását így: <tt>D:\setup</tt> [Enter] vagy <tt>E:\setup</tt> [Enter]
 </sub>
 <hr>
 <sup>A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
