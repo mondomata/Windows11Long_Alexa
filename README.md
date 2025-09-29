@@ -12,7 +12,7 @@
 ▶️Bemutató:
 <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</tt></a>
 
-📢
+# 📢
 A <tt>*Win11Long_Alexa*</tt> Windows telepítő a Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, stabilabb, mint a többi Windows<sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja*</sup>. Sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. Nem zaklat állandó "fícsör" vagy funkció frissítéssel, ami sokszor destabilizálja kiadásakor a rendszert, a javítások végeláthatatlan során meg bosszankodik a felhasználó! 
 Minden Windows közül a leghosszabb távon (Long = akár 2034-ig!) támogatott, nem igényel manuális karbantartást, kizárólag szolgáltatási és biztonsági rendszer frissítései stabil, gyors rendszert eredményeznek régebbi gépen is.
 
@@ -20,7 +20,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 🖥️💻*Min. 4 GB RAM / min.~30 GB tárhely (ajánlva 60+), és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik.*
 
-# 🛠️<b>Telepítési adathordozó készítése</b> (<sup>Windows-on</sup>):
+## 🛠️<b>Telepítési adathordozó készítése</b> (<sup>Windows-on</sup>):
 
 1. Töltsd le fenti linken a <tt><b>Win11Long_Alexa.iso</b></tt>-t<sup>(4.68GB)</sup>, majd a <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡Rufust</a>.
 
@@ -28,7 +28,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 3. A Rufusban válaszd ki az USB tárolód (device/eszköz), majd tallózd be a letöltött ISO fájlt (rendszerindító/boot select). Más beállításon ne módosíts. A Start/Indítás gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás).
 
-# 🛠️<b>Telepítés</b>:
+## 🛠️<b>Telepítés</b>:
 
 4. Dugd az USB tárolót a 'cél' gépbe.
 5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc, Del, F2, F8, F9, F10, F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
@@ -39,7 +39,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
    1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ így még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
    2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
 
-# 😈 <b>Az Alexa telepítőből KIMARAD</b> 💩 :
+## 😈 <b>Az Alexa telepítőből KIMARAD</b> 💩 :
 
 - 😜Hardver összetevők ellenőrzése (secure boot, TPM2: a gyártói Win 11 telepítő enélkül nem működik);
 - 😜Windows haszontalanságok: nyomkövető és reklám/hirdetés programok, egyéb "hulladék" ~50 szoftver;
@@ -47,19 +47,19 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 - 😜Telepítő online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]). <sub>🎆 Tipp: ha netkábel nélküli laptopod van, dugd a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a <a href="https://www.iobit.com/en/driver-booster.php">Driver Booster</a><sup>
 
 
-# 😎 <b>Ami BENNE van</b> 👀 :
+## 😎 <b>Ami BENNE van</b> 👀 :
 
 - 💫 Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biztonsághoz...
 - 😇 .Alexa mappa: Microsoft licensz aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) 1 klikkes telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 - 🥇 intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD driver telepítő link és Driver Booster link... 💥
 <hr>
-(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
+<sup>(❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip
 
 🥇Powershell parancs futtatási lehetőség a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
 ~~~
 & ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
 ~~~
-<sup>💯 thanks for Raphire 🙏 (https://github.com/Raphire/Win11Debloat)</sup>
+💯 thanks for Raphire 🙏 (https://github.com/Raphire/Win11Debloat)</sup>
 <hr>
 <sup></sup>⚠*Bátrabb, tapasztalt felhasználóknak. Egy kb 10GB-os partícióra másolva a megnyitott ISO tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
 
