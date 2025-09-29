@@ -20,7 +20,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 🖥️💻*Min. 4 GB RAM / min.~30 GB tárhely (ajánlva 60+), és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik.*
 
-#🛠️<b>Telepítési adathordozó készítése</b> (<sup>Windows-on</sup>):
+# 🛠️<b>Telepítési adathordozó készítése</b> (<sup>Windows-on</sup>):
 
 1. Töltsd le fenti linken a <tt><b>Win11Long_Alexa.iso</b></tt>-t<sup>(4.68GB)</sup>, majd a <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡Rufust</a>.
 
@@ -28,7 +28,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 3. A Rufusban válaszd ki az USB tárolód (device/eszköz), majd tallózd be a letöltött ISO fájlt (rendszerindító/boot select). Más beállításon ne módosíts. A Start/Indítás gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás).
 
-#🛠️<b>Telepítés</b>:
+# 🛠️<b>Telepítés</b>:
 
 4. Dugd az USB tárolót a 'cél' gépbe.
 5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc, Del, F2, F8, F9, F10, F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
@@ -39,7 +39,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
    1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ így még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
    2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
 
-#😈 <b>Az Alexa telepítőből KIMARAD</b> 💩 :
+# 😈 <b>Az Alexa telepítőből KIMARAD</b> 💩 :
 
 - 😜Hardver összetevők ellenőrzése (secure boot, TPM2: a gyártói Win 11 telepítő enélkül nem működik);
 - 😜Windows haszontalanságok: nyomkövető és reklám/hirdetés programok, egyéb "hulladék" ~50 szoftver;
@@ -47,7 +47,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 - 😜Telepítő online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]). <sub>🎆 Tipp: ha netkábel nélküli laptopod van, dugd a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a <a href="https://www.iobit.com/en/driver-booster.php">Driver Booster</a><sup>
 
 
-#😎 <b>Ami BENNE van</b> 👀 :
+# 😎 <b>Ami BENNE van</b> 👀 :
 
 - 💫 Hosszú távú szolgáltatási és biztonsági frissítés a stabilitáshoz, biztonsághoz...
 - 😇 .Alexa mappa: Microsoft licensz aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) 1 klikkes telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
