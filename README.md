@@ -22,7 +22,7 @@ Az "Alexa" ezt azzal fejeli meg, hogy a "végtelenségig" (2 lépésre) leegysze
 
 🖥️💻*Min. 4 GB RAM / min.~30 GB tárhely (ajánlva 60+), és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy "mezei" felhasználó vágyik.*
 
-## 🛠️<b>Telepítési adathordozó készítése</b> (<sup>Windows-on</sup>)
+## 🛠️<b>Telepítési adathordozó készítése</b> <sup>*Windows-on</sup>
 
 1. Töltsd le fenti linken a <tt><b>Win11Long_Alexa.iso</b></tt>-t<sup>(4.68GB)</sup>, majd a <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe"><tt>➡Rufust</tt></a>.
 
