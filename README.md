@@ -1,7 +1,7 @@
 # Windows11Long_Alexa 💥
 
 <sup>(●'◡'●) Az Alexa névnek semmi köze az azonos hangzású multihoz.
-(<tt>☝️2025. 9. 24.: NEM lesz Windows 11 25H2 Alexa kiadás! Nincs hozzáadott értéke!😑 A Windows 10 2025.10.15-től csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket!🤬 Helyette is kiválóan megfelel az itt lévő telepítő.)</tt> 
+(<tt>☝️2025. 9. 24.: NEM lesz Windows 11 25H2 Alexa kiadás! Nincs hozzáadott értéke!😑 A Windows 10 2025.10.15-től csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket!🤬 Helyette is kiválóan megfelel az itt lévő telepítő, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van)</tt> 
 </sup>
 
 ▶️Letöltés:
