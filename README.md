@@ -53,14 +53,14 @@ Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és
    🥇Powershell parancs futtatási lehetőség a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
 
 ~~~
-& ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
+& ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) 
 ~~~
 💯 thanks for Raphire 🙏 <sup>(https://github.com/Raphire/Win11Debloat)</sup>
 <br>
 (❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. 
    <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
 <hr>
-⚠*Bátrabb, tapasztalt felhasználóknak. Egy kb 10GB-os partícióra másolva a megnyitott ISO tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
+⚠*Bátrabb, tapasztalt felhasználóknak. A Windows Fájlkezelővel megnyitva/kibontva az ISO tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
 
 *<b>USB tároló/"pendrájv" nélküli telepítés</b>* közben felülírható a meglévő Windows így ("tiszta" telepítés): egy kb. 10GB-os partícióra másold át a megnyitott ISO tartalmát. Windows Helyreállítási Módban (ezt *[Shift]* bill.-t nyomva tartva és a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben Troubleshot>Command Prompt, magyarul Parancssort választva, majd begépelve: <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja. Ha hibát jelez a Parancssor, egyszerűen ismételd meg a parancs kiadását így: <tt>D:\setup</tt> [Enter] vagy <tt>E:\setup</tt> [Enter]
 <hr>
