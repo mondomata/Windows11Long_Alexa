@@ -55,10 +55,10 @@ Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és
 ~~~
 & ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
 ~~~
-💯 thanks for Raphire 🙏 (https://github.com/Raphire/Win11Debloat)
+💯 thanks for Raphire 🙏 <sup>(https://github.com/Raphire/Win11Debloat)</sup>
 <br>
 (❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. 
-   Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip
+   <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
 <hr>
 ⚠*Bátrabb, tapasztalt felhasználóknak. Egy kb 10GB-os partícióra másolva a megnyitott ISO tartalmát, onnan a <tt>setup.exe</tt>-vel indítva is működik a telepítés, 2. Windowsként, dual boot módban az 1.-vel. 
 
