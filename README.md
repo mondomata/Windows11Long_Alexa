@@ -37,14 +37,14 @@ Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és
    1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ így még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
    2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
 
-## 😈 <b>KIMARADT sz@rságok</b> 💩 :
+## 😈 <b>Kihagyott sz@rságok</b> 💩 :
 
 - 😜Hardver összetevők ellenőrzése (secure boot, proci, TPM2; a gyártói Win 11 telepítő enélkül nem működik);
 - 😜Windows haszontalanságok: nyomkövető és hirdető programok, egyéb "hulladék" ~50 szoftver;
 - 😜Online fiók használat (a Microsotf túl élénk érdeklődésének kikerüléséhez); 
 - 😜Telepítő online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [ajánlott]). <sub>🎆 Tipp: ha netkábel dugalj nélküli laptopod van, és nem tudsz a wifire sem csatlakozni, dugd a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a gyártó weboldala.
 
-## 😎 <b>Ami BENNE van +</b> 👀 :
+## 😎 <b>+ Ami benne van +</b> 👀 :
 
 - 💫 Hosszú távú biztonsági frissítés...
 - 😇 .Alexa mappa: Microsoft (Windows) licensz aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) 1 klikkes telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
