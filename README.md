@@ -29,7 +29,7 @@ Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és
 
 4. Csatold az USB tárolót a 'cél' gépbe.
 
-5. Indítsd el a gépet Boot menü-vel (ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc Del F2 F8 F9 F10 F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
+5. Indítsd el a gépet Boot menü-vel: ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc Del F2 F8 F9 F10 F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre). Más módszerrel: a Windows menüben a Kikapcs./Újraindításra kattints úgy, hogy közben lenyomva tartod a Shift-et. 1 percen belül spec.módban indul a gép egy spec.menüvel, ahol keresd a Helyreállás->USB eszköz... lehetőséget, majd válaszd ki a telepítő USB tárolód.)
 
 6. Válaszd ki rendszer betöltéshez (rendszerbetöltő menü / Boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a menü listán Mass Storage néven látható az USB)</sub>.
 
@@ -63,7 +63,7 @@ Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és
 ⚠Bátrabb, tapasztalt felhasználóknak. 
 *<b>Megnyitva/kibontva az ISO tartalmát</b>*, az ISO-ból a <tt>setup.exe</tt>-vel is működik a telepítés, 2. Windowsként, dual boot módban a meglévő 1.-vel. 
 
-*<b>USB tároló/"pendrájv" nélküli telepítés</b>* közben felülírható a meglévő Windows így ("tiszta" telepítés!): készíts egy kb. 10GB-os partíciót, másold rá a megnyitott ISO tartalmát. Windows Helyreállítási Módban (ezt *[Shift]*-et nyomva tartva és közben a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben Troubleshot/Helyreállítás->Command Prompt/Parancssor válaszd, majd begépelve: <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja (<i>mindent töröl!!!</i>). Ha hibát jelez a Parancssor, egyszerűen ismételd meg a parancs kiadását így: <tt>D:\setup</tt> [Enter] vagy <tt>E:\setup</tt> [Enter]
+*<b>USB tároló/"pendrájv" nélküli telepítés</b>* közben felülírható a meglévő Windows így ("tiszta" telepítés!): készíts egy kb. 10GB-os partíciót, másold rá a megnyitott ISO tartalmát. Windows Helyreállítási Módban (ezt *[Shift]*-et nyomva tartva és közben a Start menüben az *Újraindítás*-ra kattintva is el lehet érni), a Helyreállítási menüben a *Helyreállítás->Speciális lehetőségek->Hibaelhárítás->Parancssor* lehetőséget válaszd, majd begépelve: <tt>C:\setup</tt> [Enter]-rel indíthatod a telepítőt, a meglévő Windows partíciót választva azt az Új Windows felülírja (<i>mindent töröl!!!</i>). Ha hibát jelez a Parancssor, egyszerűen ismételd meg a parancs kiadását így: <tt>D:\setup</tt> [Enter] vagy <tt>E:\setup</tt> [Enter]
 <hr>
 <sup>A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
 
