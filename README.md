@@ -1,12 +1,8 @@
 # Windows11Long_Alexa 💥
 
 <sup>(●'◡'●) Az Alexa névnek semmi köze az azonos hangzású multihoz.
-(<tt>☝️2025. 9. 24.: NEM lesz Windows 11 25H2 Alexa kiadás! Nincs hozzáadott értéke!😑 A Windows 10 2025.10.15-től csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket!🤬 Helyette is kiválóan megfelel az itt lévő telepítő, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van)</tt> 
+(<tt>☝️Windows 11 25H2 Alexa kiadás nem lesz! Nincs hozzáadott értéke!😑 A Windows 10 már csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket!🤬 Helyette is kiválóan megfelel az itt lévő telepítő😜, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van)</tt> 
 </sup>
-
-▶️Letöltés: <a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank"><tt>Win11Long_Alexa.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</tt></a>(<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
-
-▶️Bemutató: <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</tt></a>
 
 ## 📢 Mi ez?
 A <tt>*Win11Long_Alexa*</tt> Windows telepítő a Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, stabilabb, mint a többi Windows<sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja*</sup>. Sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. Nem zaklat állandó "fícsör" vagy funkció frissítéssel, ami sokszor destabilizálja kiadásakor a rendszert, a javítások végeláthatatlan során meg bosszankodik a felhasználó! 
@@ -15,6 +11,11 @@ Minden Windows közül a leghosszabb távon (Long = akár 2034-ig!) támogatott,
 Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 hardver korlátozásaival. 
 
 🖥️💻*Min. 4 GB RAM / min.~30 GB tárhely (ajánlva 60+), és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy hozzám hasonló "mezei" felhasználó vágyik.*
+
+
+▶️Letöltés: <a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank"><tt>Win11Long_Alexa.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</tt></a>(<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
+
+▶️Bemutató: <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</tt></a>
 
 ## 🛠️<b>Telepítési adathordozó készítése</b> <sup>*Windows-on</sup>
 
