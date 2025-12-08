@@ -29,7 +29,7 @@ Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és
 
 4. Csatold az USB tárolót a 'cél' gépbe.
 
-5. Indítsd el a gépet Boot menü-vel: ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc Del F2 F8 F9 F10 F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre). Más módszerrel: a Windows menüben a Kikapcs./Újraindításra kattints úgy, hogy közben lenyomva tartod a Shift-et. 1 percen belül spec.módban indul a gép egy spec.menüvel, ahol keresd az Eszköz használata->USB eszköz... lehetőséget, a gép újraindul a telepítő USB tárolódról.
+5. Indítsd el a gépet Boot menü-vel: ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc Del F2 F8 F9 F10 F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre). Más módszerrel: a meglévő Windows menüben a Kikapcs./Újraindításra kattints úgy, hogy közben lenyomva tartod a Shift-et. 1 percen belül spec.módban indul a gép egy spec.menüvel, ahol keresd az <i>Eszköz használata->USB</i> lehetőséget, ezután a gép újraindul közvetlenül a telepítőddel.
 
 6. Válaszd ki rendszer betöltéshez (rendszerbetöltő menü / Boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a menü listán Mass Storage néven látható az USB)</sub>.
 
