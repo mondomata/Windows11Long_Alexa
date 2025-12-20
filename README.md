@@ -60,6 +60,7 @@ Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és
 <br>
 (❁´◡`❁) A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. 
    <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
+<br>Még sok Windowsságot találhatsz itt: <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-"> ide kattintva </a>.
 <hr>
 ⚠Bátrabb, tapasztalt felhasználóknak. 
 *<b>Megnyitva/kibontva az ISO tartalmát</b>*, az ISO-ból a <tt>setup.exe</tt>-vel is működik a telepítés, 2. Windowsként, dual boot módban a meglévő 1.-vel. 
