@@ -7,7 +7,7 @@ Ne engedj be M.(á)S.-t...(❁´◡`❁)
 <sup>(Az Alexa névnek semmi köze az azonos hangzású multihoz.
 (<tt>☝️A Windows 10 már csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket!🤬 Helyette is kiválóan megfelel az itt lévő telepítő😜, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van)</tt> 
 </sup>
-Hamarosan jön!💥💥💥 Tiny11Long_Alexa! Drasztikusan - 3.7 Gb - lefaragott telepítő, kisméretű, de kiválóan működő Windows 11, amely hasonlóan az itt leírthoz, gyors, stabil, biztonságos!
+!
 
 ## 📢 Mi ez?
 A <tt>*Win11Long_Alexa*</tt> Windows telepítő a Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, stabilabb, mint a többi Windows<sup>*számos, pl. youtube-n terjesztett független teszt bizonyítja*</sup>. Sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. Nem zaklat állandó "fícsör" vagy funkció frissítéssel, ami sokszor destabilizálja kiadásakor a rendszert, a javítások végeláthatatlan során meg bosszankodik a felhasználó! 
@@ -77,3 +77,4 @@ Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és
 <sup>A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
 
 <tt><sub>🤗A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</sub></sub></tt>
+Hamarosan jön!💥💥💥 Tiny11Long_Alexa! Drasztikusan - 3.7 Gb - lefaragott telepítő, kisméretű, de kiválóan működő Windows 11, amely hasonlóan az itt leírthoz, gyors, stabil, biztonságos
