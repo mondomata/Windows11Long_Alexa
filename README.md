@@ -1,7 +1,7 @@
 # Windows11Long_Alexa 
 
 <sup>(●'◡'●) Az Alexa névnek semmi köze az azonos hangzású multihoz.
-(<tt>☝️Windows 11 25H2 Alexa kiadás nem lesz! Nincs hozzáadott értéke!😑 A Windows 10 már csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket!🤬 Helyette is kiválóan megfelel az itt lévő telepítő😜, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van)</tt> 
+(<tt>☝️A Windows 10 már csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket!🤬 Helyette is kiválóan megfelel az itt lévő telepítő😜, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van)</tt> 
 </sup>
 Hamarosan jön!💥💥💥 Tiny11Long_Alexa! Drasztikusan - 3.7 Gb - lefaragott telepítő, kisméretű, de kiválóan működő Windows 11, amely hasonlóan az itt leírthoz, gyors, stabil, biztonságos!
 
