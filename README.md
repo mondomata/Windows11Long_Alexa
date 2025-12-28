@@ -16,7 +16,8 @@ Minden Windows közül a leghosszabb távon (Long = akár 2034-ig!) támogatott,
 
 Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 hardver korlátozásaival. 
 
-🖥️💻*Min. 4 GB RAM / min.~30 GB tárhely (ajánlva 60+), és BIOS UEFI rendszerbetöltő. Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy hozzám hasonló "mezei" felhasználó vágyik.*
+🖥️💻*Min. 4 GB RAM / min.52GB tárhely (ajánlva 60+), és BIOS UEFI rendszerbetöltő. 
+Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy hozzám hasonló "mezei" felhasználó vágyik.*
 
 
 ▶️Letöltés: <a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank"><tt>Win11Long_Alexa.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</tt></a> (<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
