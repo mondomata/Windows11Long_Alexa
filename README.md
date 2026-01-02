@@ -21,7 +21,7 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 
 
 ## 🔽Letöltés
-"26.jún.9.<a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank"><tt>Win11Long_Alexa.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</tt></a> (<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
+"25.jún.9.<a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank"><tt>Win11Long_Alexa.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</tt></a> (<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
 
 "26.jan.2.<img width="28" height="28" alt="new" src="https://github.com/user-attachments/assets/ef1f5b2a-4087-4cff-963c-94adf7211e58" /> <a href="https://mega.nz/file/4B4QwLRJ#EVZYToes094x-Fgc72Y7CsU8FQudYeTTC1HabbrLydQ" target="_blank"><tt>Win11Long_Alexa2.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</tt></a>
 (<sup> Internet kapcsolattal telepítsd. Plusz szolgáltatások: automatikusan települ: Chrome böngésző, VLC videólejátszó, XnView képnézegető/szerkesztő (utóbb bármelyik törölhető), optimalizálva van az iso-ban az .Alexa mappa Windows-ba másolása, több lemezes/több partíciós gépen is meglesz. Minden más - telepítés menete, Windows tartalom - azonos az 1.-vel)</sup>)
