@@ -23,6 +23,8 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 ## 🔽Letöltés
 <a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank"><tt>Win11Long_Alexa.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</tt></a> (<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
 
+<a href="https://mega.nz/file/..." target="_blank"><tt>Win11Long_Alexa2.iso ![mega](https://github.com/user-attachments/assets/c4b28076-9177-45e7-817c-cb7323582bf2)</tt></a> (<sup> Windows-sal együtt települ: Chrome böngésző, VLC videólejátszó, XnView képnézegető/szerkesztő (utóbb bármelyik törölhető), és optimalizálva van az iso-ban az .Alexa mappa Windows-ba másolása, hogy több lemezes/partíciós gépen is meglegyen)</sup>)
+
 ▶️Bemutató: <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</tt></a>
 
 ## 🛠️<b>Telepítési adathordozó készítése</b> <sup>*Windows-on</sup>
