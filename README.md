@@ -39,7 +39,7 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 <img width="250" height="266" alt="rufus" src="https://github.com/user-attachments/assets/15acb3b9-5613-4fdd-b6ba-dc0690f6befb" />
 
 
-## 🛠️<b>Telepítés</b>
+## 🛠️Telepítés
 
 4. Csatold az USB tárolót a 'cél' gépbe.
 
@@ -53,14 +53,14 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
    1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ így még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
    2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
 
-## 😈 <b>Kihagyott sz@rságok</b> 💩 :
+## 😈Kihagyott sz@rságok💩
 
 - 😜Hardver összetevők ellenőrzése (secure boot, proci, TPM2, RAM; a gyártói Win 11 telepítő enélkül nem működik);
 - 😜Windows haszontalanságok: nyomkövető és hirdető programok, egyéb "hulladék" ~50 szoftver;
 - 😜Online fiók használat (a Microsotf túl élénk érdeklődésének kikerüléséhez); 
 - 😜Telepítő online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [erősen ajánlott]). 
 
-## 😎 <b>+ Ami benne van +</b> 👀 :
+## 😎+ Ami benne van +👀
 
 - 💫 Hosszú távú biztonsági frissítés...
 - 😇 .Alexa mappa: Microsoft (Windows) licensz aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) 1 klikkes telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
@@ -79,10 +79,8 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. 
    <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
 <br>Még sok Windowsságot találhatsz <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-"> a PublikWindows-on ide kattintva </a>.
-<hr>
 
-
-##⚠*🙌Tapasztaltabb felhasználóknak:*
+## ⚠*🙌Tapasztaltabb felhasználóknak
 
 **Megnyitva/kibontva az ISO tartalmát**, az ISO-ból a <tt>setup.exe</tt>-vel is működik a telepítés, 2. Windowsként, dual boot módban a meglévő 1.-vel. 
 
