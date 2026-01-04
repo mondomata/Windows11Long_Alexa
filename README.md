@@ -90,4 +90,4 @@ A Microsoft heves érdeklődésének korlátozását és a Windows rendszer opti
 > használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</sub></sub></tt>
 
 > [!CAUTION]
-> Minden felelősség kizárva a szerző részéről.
+> Minden felelősség kizárva a szerző részéről (a leírtak kipróbáltak, jól működnek, viszont a gépek és emberek közötti különbségek akár kirívók is lehetnek).😁😁😁
