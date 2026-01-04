@@ -88,5 +88,6 @@ A Microsoft heves érdeklődésének korlátozását és a Windows rendszer opti
 > [!NOTE]
 > <tt><sub>🤗A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek
 > használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</sub></sub></tt>
+
 > [!CAUTION]
 > Minden felelősség kizárva a szerző részéről.
