@@ -78,16 +78,16 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 
 A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. 
    <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
-<br>Még sok Windowsságot találhatsz <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-"> a PublikWindows-on ide kattintva </a>.
 
 > [!TIP]
 > ⚠*🙌Tapasztaltabb felhasználóknak
 > USB nélküli tiszta és/vagy második Windows telepítési módok: https://github.com/mondomata/Windows-Simplegood 
+> Még sok Windowsságot találhatsz <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-"> a PublikWindows-on ide kattintva </a>.
 <hr>
 <sup>A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
 
 > [!NOTE]
-<tt><sub>🤗A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</sub></sub></tt>
-Hamarosan jön!💥💥💥 Tiny11Long_Alexa! Drasztikusan - 3.7 Gb - lefaragott telepítő, kisméretű, de kiválóan működő Windows 11, amely hasonlóan az itt leírthoz, gyors, stabil, biztonságos
+> <tt><sub>🤗A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek
+> használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝)</sub></sub></tt>
 > [!CAUTION]
 > Minden felelősség kizárva a szerző részéről.
