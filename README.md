@@ -65,8 +65,7 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 - 💫 Hosszú távú biztonsági frissítés...
 - 😇 .Alexa mappa: Microsoft (Windows) licensz aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) 1 klikkes telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 - 🥇 Intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD driver telepítő link és Driver Booster link... 💥
-<hr>
-   🥇Powershell parancs futtatási lehetőség a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
++ lehetőség:   🥇Powershell parancs futtatási lehetőség a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
 
 ~~~
 & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) 
