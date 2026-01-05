@@ -32,7 +32,7 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 **🤞Új Extra! 😉Kakukktojás! A legújabb, 2025-ös Windows 11 25H2**<sup> "tiny" (kicsi) változata (az eredeti 7 GB helyett 5GB telepítő); ez is minden felesleges sallangtól megtisztítva, de anélkül, hogy az élvezeti értéke, használhatósága sérült volna...A Microsoft hardverkövetelményei is kizárva, és "long", várhatóan 2035-ig támogatott a MS által! A Long_Alexa2 szerinti '.Alexa' mappa kezelés és 3 automatikus program telepítés /Chrome, VLC, Xnview/ itt is lefuthat... (eleve nincs viszont Edge böngésző, de van 1 klikkes Office telepítő és  aktiválási lehetőség, stb... ;) </sup>)
 
 
-▶️Bemutató: <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</tt></a>
+▶️Bemutató ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575) <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa</tt></a>
 
 ## 🛠️<b>Telepítési adathordozó (USB) készítése</b> <sup>*Windows-on</sup>
 
