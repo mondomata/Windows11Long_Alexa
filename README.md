@@ -28,6 +28,10 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 📀<a href="https://mega.nz/file/5BZDXZxI#vSvUNW29OiuVaaE46uuv9KfwhR7ajabGrbBde_qWtMk" target="_blank"><tt>Win11Long_Alexa2.iso</tt>
 </a> <sup> Internet kapcsolattal telepítsd. Plusz szolgáltatások: optimalizálva van az iso-ban az .Alexa mappa Windows-ba másolása, több lemezes/több partíciós gépen is meglesz. Minden más - telepítés menete, Windows tartalom - azonos az 1.-vel, automatikusan települhet: Chrome böngésző, VLC videólejátszó, XnView képnézegető/szerkesztő (bármelyik törölhető)</sup>)
 
+📀<a href="https://mega.nz/file/" target="_blank"><tt>Tiny11_25_Alexa.iso</tt> ..........hamarosan.............
+</a> <sup> Extra! Kakukktojás! A legújabb Windows 11 Pro 25H2 "tiny", azaz "apró" változata; ez is minden felesleges sallangtól tisztítva, de anélkül, hogy az élvezeti értéke, használhatósága sérült volna...</sup>)
+
+
 ▶️Bemutató: <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575)</tt></a>
 
 ## 🛠️<b>Telepítési adathordozó (USB) készítése</b> <sup>*Windows-on</sup>
