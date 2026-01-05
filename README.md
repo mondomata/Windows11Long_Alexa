@@ -52,8 +52,8 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 6. Válaszd ki rendszer betöltéshez (rendszerbetöltő menü / Boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a menü listán Mass Storage néven látható az USB)</sub>.
 
 7. Két egyszerű lépés (magyarul):
-   1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ így még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
-   2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
+-   1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ így még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
+-  2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
 
 ## 😈Kihagyott sz@rságok💩
 
