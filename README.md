@@ -1,7 +1,7 @@
 # Windows11Long_Alexa 💥
 
 > [!TIP]
-> Windows 11 régi vagy új gépre, kompromisszumok nélkül! Villámgyors, betonstabil: Windows11Long_Alexa.
+> **Windows 11 régi vagy új gépre, kompromisszumok nélkül! Villámgyors, betonstabil: Windows11Long_Alexa.**
 
 > [!NOTE]
 > A Te Személyi Számítógéped, a Te Rendszered, a Te Programjaid! 
