@@ -67,20 +67,21 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 - 💫 Hosszú távú biztonsági frissítés...
 - 😇 .Alexa mappa: Microsoft (Windows) licensz aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) 1 klikkes telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
 - 🥇 Intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD driver telepítő link és Driver Booster link... 💥
-+ lehetőség:   🥇Powershell parancs futtatási lehetőség a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
-
-~~~
-& ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) 
-~~~
-💯 thanks for Raphire 🙏 <sup>(https://github.com/Raphire/Win11Debloat)</sup>
-<br>
-(❁´◡`❁) 
-<sub>🎆 Tipp: ha netkábel dugalj nélküli laptopod van, és nem tudsz a wifire sem csatlakozni, dugd a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a gyártó weboldala.
-
-A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető szinte minden. 
-   <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
 
 > [!TIP]
+> + lehetőség:   🥇Powershell parancs futtatási lehetőség a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
+> ~~~
+> & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) 
+> ~~~
+>💯 thanks for Raphire 🙏 <sup>(https://github.com/Raphire/Win11Debloat)</sup>
+> <br>
+> (❁´◡`❁) 
+> <sub>🎆 Tipp: ha netkábel dugalj nélküli laptopod van, és nem tudsz a wifire sem csatlakozni, dugd a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a
+> szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a gyártó weboldala.
+> A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető
+> szinte minden. 
+>   <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
+
 > ⚠*🙌Tapasztaltabb felhasználóknak
 > USB nélküli tiszta és/vagy második Windows telepítési módok: https://github.com/mondomata/Windows-Simplegood 
 > Még sok Windowsságot találhatsz <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-"> a PublikWindows-on ide kattintva </a>.
