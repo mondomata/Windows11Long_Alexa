@@ -53,7 +53,8 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 7. **Két egyszerű lépés (magyarul):**
 -   1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
 -  2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
-> [!TIP] További Windows install tippek: https://github.com/mondomata/Windows-Simplegood
+> [!TIP]
+> További Windows install tippek: https://github.com/mondomata/Windows-Simplegood
 
 ## 😈Kihagyott sz@rságok💩
 
