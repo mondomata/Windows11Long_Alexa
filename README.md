@@ -51,8 +51,9 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 6. Válaszd ki rendszer betöltéshez (rendszerbetöltő menü / Boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a menü listán Mass Storage néven látható az USB)</sub>.
 
 7. **Két egyszerű lépés (magyarul):**
--   1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ így még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
+-   1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
 -  2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
+> [!TIP] További Windows install tippek: https://github.com/mondomata/Windows-Simplegood
 
 ## 😈Kihagyott sz@rságok💩
 
@@ -85,7 +86,7 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 > USB nélküli tiszta és/vagy második Windows telepítési módok: https://github.com/mondomata/Windows-Simplegood 
 > Még sok Windowsságot találhatsz <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-"> a PublikWindows-on ide kattintva </a>.
 <hr>
-<sup>A Long Alexa jelenleg az alábbi gépen/notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
+<sup>A Long Alexa jelenleg az alábbi - szerény - HPProbook440G5 notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
 
 > [!NOTE]
 > <tt><sub>🤗A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek
