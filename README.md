@@ -91,6 +91,7 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 > USB nélküli tiszta és/vagy második Windows telepítési módok: https://github.com/mondomata/Windows-Simplegood 
 > Még sok Windowsságot találhatsz <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-"> a PublikWindows-on ide kattintva </a>.
 <hr>
+👌👌👌EXTRA THX / KÖSZÖNET: massgrave, schneegans, memstechtips/Winhance, ntdevlabs/tiny11builder, ß Alexa! :)))
 <sup>A Long Alexa jelenleg az alábbi - szerény - HPProbook440G5 notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
 
 > [!NOTE]
