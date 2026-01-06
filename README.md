@@ -1,17 +1,14 @@
 # Windows11Long_Alexa 💥
 
 > [!TIP]
-> **Windows 11 régi vagy új gépre, kompromisszumok nélkül! Villámgyors, betonstabil: Windows11Long_Alexa.**
+> **Windows 11 régi vagy új gépre, kompromisszumok nélkül! Villámgyors, betonstabil: Windows11Long_Alexa.[^1]**
 
 > [!NOTE]
 > A Te Személyi Számítógéped, a Te Rendszered, a Te Programjaid! 
 > Ne engedj be M.(á)S.-t...(❁´◡`❁)
 > Az a legjobb a Windows-ban, hogy minden sz@r kilapátolható belőle, és minden jó beletölthető.
 
-<sup>(Az Alexa névnek semmi köze az azonos hangzású multihoz.
-(<tt>☝️A Windows 10 már csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket 2026.októberig!🤬 Helyette is kiválóan megfelel az itt lévő telepítő😜, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van)</tt> 
-</sup>
-!
+[^1]:<sup>(Az Alexa névnek semmi köze az azonos hangzású multihoz.(<tt>☝️A Windows 10 már csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket 2026.októberig!🤬 Helyette is kiválóan megfelel az itt lévő telepítő😜, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van)</tt></sup>!
 
 ## 📢 Mi ez?
 A <tt>*Win11Long_Alexa*</tt> Windows telepítő a Microsoft Windows 11 Enterprise LTSC 2024 felhasználásával készült, gyorsabb, stabilabb, mint a többi Windows. Sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. Nem zaklat állandó "fícsör" vagy funkció frissítéssel, ami sokszor destabilizálja kiadásakor a rendszert, a javítások végeláthatatlan során meg bosszankodik a felhasználó! 
