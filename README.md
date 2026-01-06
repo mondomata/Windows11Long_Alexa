@@ -26,10 +26,9 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 ## 🔽Letöltés <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f5d2bb67-6c51-4af8-8597-a8cb65d13a95" />
 📀<a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank"><tt>Win11Long_Alexa.iso</tt></a> (<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
 
-📀<a href="https://mega.nz/file/5BZDXZxI#vSvUNW29OiuVaaE46uuv9KfwhR7ajabGrbBde_qWtMk" target="_blank"><tt>Win11Long_Alexa2.iso</tt>
-</a> <sup> Internet kapcsolattal telepítsd. Plusz szolgáltatások (az elsőhöz képest): optimalizálva van az iso-ban az .Alexa mappa Windows-ba másolása, több lemezes/több partíciós gépen is meglesz. Minden más - telepítés menete, Windows tartalom - azonos az 1.-vel, automatikusan települhet: Chrome böngésző, VLC videólejátszó, XnView képnézegető/szerkesztő (bármelyik törölhető)</sup>)
+📀<a href="https://mega.nz/file/5BZDXZxI#vSvUNW29OiuVaaE46uuv9KfwhR7ajabGrbBde_qWtMk" target="_blank"><tt>Win11Long_Alexa2.iso</tt></a> <sup> Internet kapcsolattal telepítsd. Plusz szolgáltatások (az elsőhöz képest): optimalizálva van az iso-ban az .Alexa mappa Windows-ba másolása, több lemezes/több partíciós gépen is meglesz. Minden más - telepítés menete, Windows tartalom - azonos az 1.-vel, automatikusan települhet: Chrome böngésző, VLC videólejátszó, XnView képnézegető/szerkesztő (bármelyik törölhető)</sup>)
 
-📀<a href="https://mega.nz" target="_blank"><tt>Tiny11_25_Alexa.iso</tt></a> ..........hamarosan.............
+📀<a href="https://mega.nz" target="_blank"><tt>Tiny11_25_Alexa.iso</tt></a>
 **🤞Új Extra! 😉Kakukktojás! A legújabb, 2025-ös Windows 11 25H2**<sup> "tiny" (kicsi) változata (az eredeti 7 GB helyett 5GB telepítő); ez is minden felesleges sallangtól megtisztítva, de anélkül, hogy az élvezeti értéke, használhatósága sérült volna...A Microsoft hardverkövetelményei is kizárva, és "long", várhatóan 2035-ig támogatott a MS által! A Long_Alexa2 szerinti '.Alexa' mappa kezelés és 3 automatikus program telepítés /Chrome, VLC, Xnview/ itt is lefuthat... (eleve nincs viszont Edge böngésző, de van 1 klikkes Office telepítő és  aktiválási lehetőség, stb... ;) </sup>)
 
 
