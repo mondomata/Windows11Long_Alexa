@@ -58,19 +58,19 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 
 ## 😈Kihagyott sz@rságok💩
 
-- 😜Hardver összetevők ellenőrzése (secure boot, proci, TPM2, RAM; a gyártói Win 11 telepítő enélkül nem működik);
-- 😜Windows haszontalanságok: nyomkövető és hirdető programok, egyéb "hulladék" ~50 szoftver;
-- 😜Online fiók használat (a Microsotf túl élénk érdeklődésének kikerüléséhez); 
-- 😜Telepítő online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [erősen ajánlott]). 
+- 😜❌Hardver összetevők ellenőrzése (secure boot, proci, TPM2, RAM; a gyártói Win 11 telepítő enélkül nem működik);
+- 😜❌Windows haszontalanságok: nyomkövető és hirdető programok, egyéb "hulladék" ~50 szoftver;
+- 😜❌Online fiók használat (a Microsotf túl élénk érdeklődésének kikerüléséhez); 
+- 😜❌Telepítő online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [erősen ajánlott]). 
 
 ## 😎+ Ami benne van +👀
 
-- 💫 Hosszú távú biztonsági frissítés...
-- 😇 .Alexa mappa: Microsoft (Windows) licensz aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) 1 klikkes telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
-- 🥇 Intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD driver telepítő link és Driver Booster link... 💥
+- 💫✅ Hosszú távú biztonsági frissítés...
+- 😇✅ .Alexa mappa: Microsoft (Windows) licensz aktivátor és nagyszerű/egyszerű programok (pl. Chrome, VLC, Xnview, MS Office, ChrisTitusTech, stb) 1 klikkes telepítésének lehetősége (🥳NEM KÖTELEZ TÉGED semmire! Akár törölhető is 1 kattintással).
+- 🥇✅ Intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD Ryzen driver telepítő link 💥
 
 > [!TIP]
-> + lehetőség:   🥇Powershell parancs futtatási lehetőség a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
+> + lehetőség: ✅🥇Powershell parancs a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
 > ~~~
 > & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) 
 > ~~~
