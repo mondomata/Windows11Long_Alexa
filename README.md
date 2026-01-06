@@ -37,7 +37,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 
 ## 🛠️<b>Telepítési adathordozó (USB) készítése</b> <sup>*Windows-on</sup>
 
-1. Töltsd le a kiválasztott <tt><b>.iso</b></tt>-t<sup>(4.68GB)</sup>, majd <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe"><tt>➡itt ezt a Rufust</tt></a>.
+1. Töltsd le a kiválasztott <tt><b>.iso</b></tt>-t, majd <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe"><tt>➡itt ezt a Rufust</tt></a>.
 
 2. Csatolj egy min. 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Rufust.
 
