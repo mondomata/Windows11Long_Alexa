@@ -28,7 +28,7 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 
 📀<a href="https://mega.nz/file/5BZDXZxI#vSvUNW29OiuVaaE46uuv9KfwhR7ajabGrbBde_qWtMk" target="_blank"><tt>Win11Long_Alexa2.iso</tt></a> <sup> Internet kapcsolattal telepítsd. Plusz szolgáltatások (az elsőhöz képest): optimalizálva van az iso-ban az .Alexa mappa Windows-ba másolása, több lemezes/több partíciós gépen is meglesz. Minden más - telepítés menete, Windows tartalom - azonos az 1.-vel, automatikusan települhet: Chrome böngésző, VLC videólejátszó, XnView képnézegető/szerkesztő (bármelyik törölhető)</sup>)
 
-📀<a href="https://mega.nz" target="_blank"><tt>Tiny11_25_Alexa.iso</tt></a>
+📀<a href="https://mega.nz/file/0RJV0KqS#MCCDTS65tMoSb6BrE1k3K287LZWg77Jo6a2BUr6IDDo" target="_blank"><tt>Tiny11_25_Alexa.iso</tt></a>
 **🤞Új Extra! 😉Kakukktojás! A legújabb, 2025-ös Windows 11 25H2**<sup> "tiny" (kicsi) változata (az eredeti 7 GB helyett 5GB telepítő); ez is minden felesleges sallangtól megtisztítva, de anélkül, hogy az élvezeti értéke, használhatósága sérült volna...A Microsoft hardverkövetelményei is kizárva, és "long", várhatóan 2035-ig támogatott a MS által! A Long_Alexa2 szerinti '.Alexa' mappa kezelés és 3 automatikus program telepítés /Chrome, VLC, Xnview/ itt is lefuthat... (eleve nincs viszont Edge böngésző, de van 1 klikkes Office telepítő és  aktiválási lehetőség, stb... ;) </sup>)
 
 
