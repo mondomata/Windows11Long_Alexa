@@ -2,7 +2,7 @@
 
 > [!TIP]
 > **Windows 11 régi vagy új gépre, kompromisszumok nélkül! Villámgyors, betonstabil: Windows11Long_Alexa[^1].**
-[^1]:<sup>(Az Alexa névnek semmi köze az azonos hangzású multihoz.(<tt>☝️A Windows 10 már csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket 2026.októberig!🤬 Helyette is kiválóan megfelel az itt lévő telepítő😜, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van)</tt></sup>!
+[^1]:Az Alexa névnek semmi köze az azonos hangzású multihoz.(<tt>☝️A Windows 10 már csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket 2026.októberig!🤬 Helyette is kiválóan megfelel az itt lévő telepítő😜, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van)</tt>!
 
 > [!NOTE]
 > A Te Személyi Számítógéped, a Te Rendszered, a Te Programjaid! 
