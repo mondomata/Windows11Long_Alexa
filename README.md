@@ -84,8 +84,8 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 > szinte minden. 
 >   <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
 > ⚠*🙌Tapasztaltabb felhasználóknak
-> USB nélküli tiszta és/vagy második Windows telepítési módok: https://github.com/mondomata/Windows-Simplegood 
-> Még sok Windowsságot találhatsz <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-"> a PublikWindows-on ide kattintva </a>.
+> USB nélküli tiszta és/vagy második Windows telepítési módok: <a href="https://github.com/mondomata/Windows-Simplegood">ide kattintva...</a> 
+> Még sok Windowsságot találhatsz a PublikWindowson <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-">ide kattintva</a>.
 <hr>
 👌👌👌EXTRA THX / KÖSZÖNET: massgrave, schneegans, memstechtips/Winhance, ntdevlabs/tiny11builder, ß Alexa! :)))
 <br>
