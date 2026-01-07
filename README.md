@@ -61,7 +61,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 - 😜❌Hardver összetevők ellenőrzése (secure boot, proci, TPM2, RAM; a gyártói Win 11 telepítő enélkül nem működik);
 - 😜❌Windows haszontalanságok: nyomkövető és hirdető programok, egyéb "hulladék" ~50 MS Windows szoftver;
 - 😜❌Online fiók használat (a Microsotf túl élénk érdeklődésének kikerüléséhez); 
-- 😜❌Telepítő online kapcsolat követelése (de ha akarod, van lehetőség internet kapcsolattal telepíteni [erősen ajánlott]). 
+- 😜❌Telepítő online kapcsolat követelése. Ha akarod, van lehetőség internet kapcsolattal telepíteni [sőt, erősen ajánlott]. 
 
 ## 😎+ Ami benne van +👀
 
