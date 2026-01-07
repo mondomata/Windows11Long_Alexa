@@ -19,7 +19,7 @@ Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és
 Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy hozzám hasonló "mezei" felhasználó vágyik.*
 
 
-## 🔽Letöltés <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f5d2bb67-6c51-4af8-8597-a8cb65d13a95" />
+## 🔽📀Letöltés <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f5d2bb67-6c51-4af8-8597-a8cb65d13a95" />
 📀<a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank"><tt>Win11Long_Alexa.iso</tt></a> (<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
 
 📀<a href="https://mega.nz/file/5BZDXZxI#vSvUNW29OiuVaaE46uuv9KfwhR7ajabGrbBde_qWtMk" target="_blank"><tt>Win11Long_Alexa2.iso</tt></a> <sup> Internet kapcsolattal telepítsd. Plusz szolgáltatások (az elsőhöz képest): optimalizálva van az iso-ban az .Alexa mappa Windows-ba másolása, több lemezes/több partíciós gépen is meglesz. Minden más - telepítés menete, Windows tartalom - azonos az 1.-vel, automatikusan települhet: Chrome böngésző, VLC videólejátszó, XnView képnézegető/szerkesztő (bármelyik törölhető)</sup>)
