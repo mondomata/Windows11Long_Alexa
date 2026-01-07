@@ -67,7 +67,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 
 - 💫✅ Hosszú távú biztonsági frissítés...
 - 😇✅ .Alexa mappa: Microsoft (Windows) licensz aktivátor és nagyszerű/egyszerű programok (pl. Chrome böngésző, VLC zene/videólejátszó, Xnview képnézegető/szerkesztő, MS Office irodai programcsomag, ChrisTitusTech, stb) 1 klikkes telepítésének lehetősége
-(🥳Nem kötelez téged semmire! Akár minden törölhető is 1 kattintással).
+(🥳Nem kötelez téged semmire! Akár minden törölhető is 1 kattintással és/vagy MS Windows programok is telepíthetők...).
 - 🥇✅ Intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD Ryzen driver telepítő link 💥
 
 > [!TIP]
