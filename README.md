@@ -82,8 +82,10 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 > szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a gyártó weboldala.
 > A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető
 > szinte minden. 
->   <sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
+><sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
+> <br>
 > ⚠*🙌Tapasztaltabb felhasználóknak
+> <br>
 > USB nélküli tiszta és/vagy második Windows telepítési módok: <a href="https://github.com/mondomata/Windows-Simplegood">ide kattintva...</a> 
 > Még sok Windowsságot találhatsz a PublikWindowson <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-">ide kattintva</a>.
 <hr>
