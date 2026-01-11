@@ -38,7 +38,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 
 2. Csatolj egy min. 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Rufust.
 
-3. A Rufusban válaszd ki az USB tárolód (device/eszköz), majd tallózd be a letöltött ISO fájlt (rendszerindító/boot select). Más beállításon ne módosíts. A Start/Indítás gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás, és KÉSZ).
+3. A Rufusban válaszd ki az USB tárolód (device/eszköz), majd tallózd be a letöltött ISO fájlt (rendszerindító/boot select). Más beállításon ne módosíts (a Rufus automatikusan beállítja az egyéb paramétereket. A Start/Indítás gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás, és KÉSZ).
 <img width="250" height="266" alt="rufus" src="https://github.com/user-attachments/assets/15acb3b9-5613-4fdd-b6ba-dc0690f6befb" />
 
 
