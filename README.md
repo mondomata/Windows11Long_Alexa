@@ -48,7 +48,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 
 5.1. *Indítsd el a gépet Boot menü-vel*: ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc Del F2 F8 F9 F10 F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
 
-5.2. *Másik rendszerindító módszer*: a Windows Tálcán kattints a **Start (ikon) > Főkapcsoló<kbd>(|)</kbd> > Újraindítás**-ra közben lenyomva tartva a <kbd>Shift</kbd>-et. 1 percen belül spec.módban indul a gép egy spec.menüvel, ahol keresd/kattintsd az <i>Eszköz használata -> USB (a Te USB tárolód neve szerint, pl.Sandisk, Adata, stb...)"</i> lehetőséget, ezután a gép újraindul közvetlenül a telepítőddel<sup>(*6. pont kihagyásával*)</sup>.
+5.2. *Másik rendszerindító módszer*: a Windows Tálcán kattints a **Start (ikon) > Főkapcsoló<kbd>(|)</kbd> > Újraindítás**-ra közben **lenyomva tartva** a <kbd>Shift</kbd>-et. 1 percen belül spec.módban indul a gép egy spec.menüvel, ahol keresd/kattintsd az <i>Eszköz használata -> USB (a Te USB tárolód neve szerint, pl.Sandisk, Adata, stb...)"</i> lehetőséget, ezután a gép újraindul közvetlenül a telepítőddel<sup>(*6. pont kihagyásával*)</sup>.
 
 6. Válaszd ki rendszer betöltéshez (rendszerbetöltő menü / Boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a menü listán Mass Storage néven látható az USB)</sub>.
 
