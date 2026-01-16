@@ -48,12 +48,12 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 
 5.1. *Indítsd el a gépet Boot menü-vel*: ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc Del F2 F8 F9 F10 F12</code> billentyűvel megy, ha nem vagy biztos benne, keress rá a neten a Tiedre).
 
-5.2. *Másik rendszerindító módszer*: a Windows Tálcán kattints a **Start &plusb; > Főkapcsoló<kbd>(|)</kbd> > Újraindítás**-ra közben **lenyomva tartva** a <kbd>Shift</kbd> billentyűt. 1 percen belül spec.módban indul a gép egy spec.menüvel, ahol keresd/kattintsd az <i>Eszköz használata -> USB (a Te USB tárolód neve szerint, pl.Sandisk, Adata, stb...)"</i> lehetőséget, ezután a gép újraindul közvetlenül a telepítőddel<sup>(*6. pont kihagyásával*)</sup>.
+5.2. *Másik rendszerindító módszer*: a Windows Tálcán kattints a **Start &plusb; > Főkapcsoló<kbd>(|)</kbd> > Újraindítás**-ra közben **lenyomva tartva** a <kbd>Shift</kbd> billentyűt. 1 percen belül spec.módban indul a gép egy spec.menüvel, ahol keresd/kattintsd az <i>Eszköz /Device/ használata -> USB (a Te USB tárolód neve szerint, pl.Sandisk, Adata, stb...)"</i> lehetőséget, ezután a gép újraindul közvetlenül a telepítőddel<sup>(*6. pont kihagyásával*)</sup>.
 
 6. Válaszd ki rendszer betöltéshez (rendszerbetöltő menü / Boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a menü listán Mass Storage néven látható az USB)</sub>.
 
 7. **Két egyszerű lépés (magyarul):**
--   1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez (⚠️ még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
+-   1️⃣ Tárhely/lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez - ez esetben a 0. lemez 1. partícióra /DISK 0. PARTITION 1/ történik a telepítés (⚠️ még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
 -  2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
 > [!TIP]
 > További Windows install tippek találhatók <a href="https://github.com/mondomata/Windows-Simplegood">ide kattintva</a>.
