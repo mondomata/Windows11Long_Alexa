@@ -77,7 +77,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 - 🥇✅ Intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD Ryzen driver telepítő link 💥
 
 > [!TIP]
-> + lehetőség (bármely Windowshoz): ✅🥇Powershell parancs a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
+> plusz lehetőség (bármely Windowshoz): ✅🥇Powershell parancs a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
 > ~~~
 > & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) 
 > ~~~
