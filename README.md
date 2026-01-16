@@ -33,6 +33,8 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575) <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa</tt></a>
 
 ## 🛠️<b>Telepítési adathordozó (USB) készítése</b> <sup>*Windows-on</sup>
+> [!TIP]
+> Adathordozó nélküli telepítési tippek is találhatók <a href="https://github.com/mondomata/Windows-Simplegood">ide kattintva</a>.
 
 1. Töltsd le a kiválasztott <tt><b>.iso</b></tt>-t, majd <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe"><tt>➡itt ezt a Rufust</tt></a>.
 
@@ -59,8 +61,6 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 <img width="399" height="55" alt="{5E6C5921-FECA-48A4-A3B9-418ADBBEF98E}" src="https://github.com/user-attachments/assets/4b287d05-a332-4fa9-9e03-44bde809699a" />
 
 -  2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
-> [!TIP]
-> További Windows install tippek találhatók <a href="https://github.com/mondomata/Windows-Simplegood">ide kattintva</a>.
 
 ## 😈Kihagyott sz@rságok💩
 
