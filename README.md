@@ -54,6 +54,9 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 
 7. **Két egyszerű lépés (magyarul):**
 -   1️⃣ Lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez - eredmény: egyetlen "Unallocated" (foglalatlan) partíció lesz, ezt választva a "Tovább" majd "Telepítés" parancsok után megtörténik a telepítés (⚠️ még telepítés megkezdés előtt mentsd amit muszáj, mert mindent is töröl a telepítő a lemezről ⚠️).
+<sup>A képen egy az összes partíció törlését követő lehetséges példa látható erre</sup>
+<img width="399" height="55" alt="{5E6C5921-FECA-48A4-A3B9-418ADBBEF98E}" src="https://github.com/user-attachments/assets/4b287d05-a332-4fa9-9e03-44bde809699a" />
+
 -  2️⃣ Felhasználó nevet kell majd választanod, minden más automatikus. Kb. 25 perc... a Windows KÉSZ.🔮
 > [!TIP]
 > További Windows install tippek találhatók <a href="https://github.com/mondomata/Windows-Simplegood">ide kattintva</a>.
