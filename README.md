@@ -56,7 +56,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 (6) Válaszd ki rendszer betöltéshez (rendszerbetöltő menü / Boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a menü listán Mass Storage néven látható az USB)</sub>.
 
 (7) **Két egyszerű lépés (magyarul):** 
--   1️⃣ Lemez választás: legjobb minden partíciót törölni (Delete) a tiszta telepítéshez - eredmény: egyetlen "Unallocated" (foglalatlan) partíció lesz, ezt választva a "Tovább" majd "Telepítés" parancsok után megtörténik a telepítés.
+-   1️⃣ Lemez választás: legjobb minden partíciót törölni (<u>Törlés</u> paranccsal) a tiszta telepítéshez - eredmény: egyetlen "Szabad terület" (unallocated) partíció lesz, ezt választva a [Tovább] parancs után megtörténik a telepítés.
 <sup>A képen egy az összes partíció törlését követő lehetséges példa látható erre</sup>
 <img width="399" height="55" alt="{5E6C5921-FECA-48A4-A3B9-418ADBBEF98E}" src="https://github.com/user-attachments/assets/4b287d05-a332-4fa9-9e03-44bde809699a" />
 
