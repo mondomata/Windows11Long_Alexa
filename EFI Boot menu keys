@@ -1,4 +1,5 @@
- Acer - Esc, F9, F12
+BOOT MENU KEY / billentyű kód:
+Acer - Esc, F9, F12
  ASUS - Esc, F8
  Compaq - Esc, F9
  Dell - F12
@@ -11,3 +12,46 @@
  Samsung - Esc, F12
  Sony - F11, F12
  Toshiba - F12
+_______________________________________________________
+Computer Manufacturer	Type	Model	Boot Menu Key	BIOS Key
+_______________________________________________________
+ACER	 	 	Esc, F12, F9	Del, F2
+ACER	netbook	AspireOne, Aspire Timeline	F12	F2
+ACER	netbook	Aspire v3, v5, v7	F12	F2
+APPLE	 	After 2006	Option	 
+ASUS	desktop	 	F8	F9
+ASUS	laptop	 	Esc	F2, F9
+ASUS	laptop	R503C	F8	F2, DEL
+ASUS	netbook	Eee PC 1025c	Esc	F2
+COMPAQ	 	Presario	Esc, F9	F10
+DELL	desktop	Dimension, Inspiron, Latitude	F12	F2
+DELL	desktop	Inspiron One 2020, 2305, 2320, 2330 All-In-One	F12	F2
+DELL	laptop	Inspiron	F12	F2
+DELL	laptop	Precision	F12	F12
+EMACHINES	 	 	F12	Tab, Del
+GATEWAY	 	 	F11, Esc, F10	F2, Del
+HP	generic	 	Esc, F9	Esc, F10, F1
+HP	desktop	Media Center	Esc	F10
+HP	desktop	Pavilion 23 All In One	Esc	F10
+HP	desktop	Pavilion g6 and g7	Esc	F10
+HP	desktop	Pavilion HPE PC, h8-1287c	Esc	Esc F10
+HP	desktop	Pavilion PC, p6 2317c	Esc	Esc F10
+HP	desktop	Pavilion PC, p7 1297cb	Esc	Esc F10
+HP	desktop	TouchSmart 520 PC	Esc	Esc F10
+HP	laptop	2000	Esc	Esc
+HP	notebook	Pavilion	Esc	F10
+HP	notebook	ENVY dv6 and dv7 PC	Esc	Esc
+INTEL	 	 	F10	 
+LENOVO	desktop	 	F12, F8, F10	F1, F2
+LENOVO	laptop	 	F12	F1, F2
+LENOVO	laptop	IdeaPad P500	F12 or Fn + F11	F2
+NEC	 	 	F5	F2
+PACKARD BELL	 	 	F8	F1, Del
+SAMSUNG	 	 	F12, Esc	 
+SAMSUNG	netbook	NC10	Esc	F2
+SAMSUNG	ultrabook	Series 5 Ultra and Series 7 Chronos	Esc	F2
+SHARP	 	 	 	F2
+SONY	 	VAIO, PCG, VGN	F11, ASSIST	F1, F2, F3
+SONY	 	VGN Esc	F10, ASSIST	F2
+TOSHIBA	 	Protege, Satellite, Tecra	F12	F1, Esc
+TOSHIBA	 	Equium F12	F12	F12
