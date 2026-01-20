@@ -51,7 +51,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 
 (5.1) *Indítsd el a gépet Boot menü-vel*: ez legtöbb gépen a gépgyártó logó megjelenésekor <code>Esc F8 F9 F10 F12</code> billentyű valamelyikével megy, ha nem vagy biztos benne, keress rá a neten a Tiedre (vagy nézz rá [erre a fájlra](https://github.com/mondomata/Windows11Long_Alexa/blob/main/EFI%20Boot%20menu%20keys) ); ha a gépen nincs op.rendszer akkor automatikusan a boot menüvel vagy az USB-ről indul.
 
-(5.2) *Másik Boot/rendszerindító módszer (Windowsban)*: a Windows Tálcán kattints a **Start &plusb; > Főkapcsoló<kbd>(|)</kbd> > Újraindítás**-ra közben **lenyomva tartva** a <kbd>Shift</kbd> billentyűt. 1 percen belül a **"Helyreállítás" módban** indul a gép egy spec.menüvel, ahol keresd/kattintsd az <i>Eszköz /Device/ használata -> USB (a Te USB tárolód neve szerint, pl.Sandisk, Adata, stb...)"</i> lehetőséget, ezután a gép újraindul közvetlenül a telepítőddel<sup>(*6. pont kihagyásával*)</sup>.
+(5.2) *Másik Boot/rendszerindító módszer (Windowsban)*: a Windows Tálcán kattints a **Start &plusb; > Főkapcsoló<kbd>(|)</kbd> > Újraindítás**-ra közben **lenyomva tartva** a <kbd>↑Shift</kbd> billentyűt. 1 percen belül a **"Helyreállítás" módban** indul a gép egy spec.menüvel, ahol keresd/kattintsd az <i>Eszköz /Device/ használata -> USB (a Te USB tárolód neve szerint, pl.Sandisk, Adata, stb...)"</i> lehetőséget, ezután a gép újraindul közvetlenül a telepítőddel<sup>(*6. pont kihagyásával*)</sup>.
 
 (6) Válaszd ki rendszer betöltéshez (rendszerbetöltő menü / Boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a menü listán Mass Storage néven látható az USB)</sub>.
 
