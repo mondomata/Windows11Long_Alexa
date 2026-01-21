@@ -38,9 +38,9 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 
 (1) Töltsd le a kiválasztott <tt><b>.iso</b></tt>-t, majd <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe"><tt>➡itt ezt a Rufust</tt></a>.
 
-(2) Csatolj egy min. 8 GB-os USB adattárolót a gépedhez. Ne legyen semmi fontos dolog a 'pendrájvon', mert törölve lesz minden🚩 /telepítés után formázással újra használható/, indítsd el a Rufust.
+(2) Csatolj egy *üres*, min. 8 GB-os USB adattárolót a gépedhez, indítsd el a Rufust.
 
-(3) A Rufusban válaszd ki az USB tárolód (device/eszköz), majd tallózd be a letöltött ISO fájlt (rendszerindító/boot select). Más beállításon ne módosíts (a Rufus automatikusan beállítja az egyéb paramétereket). A Start/Indítás gombbal indítsd el az ISO kiírását, azaz indítható Windows telepítő készítést az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás, és KÉSZ).
+(3) A Rufusban válaszd ki az USB tárolód (eszköz), majd tallózd be a letöltött ISO fájlt (rendszerindítónak). Más beállításon ne módosíts (a Rufus automatikusan beállítja az egyéb paramétereket). A Start gombbal indítsd el az ISO kiírását az USB-re (a felugró/figyelmeztető ablakokban Ok-t nyomj, 5-8 perc az írás, és KÉSZ).
 <img width="250" height="266" alt="rufus" src="https://github.com/user-attachments/assets/15acb3b9-5613-4fdd-b6ba-dc0690f6befb" />
 
 
@@ -49,14 +49,14 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 
 (4) **Csatol**d az USB tárolót a 'cél' gépbe.
 
-(5.1) *Indítsd el a gépet Boot menü-vel*: ez legtöbb gépen a gépgyártó logó (Lenovo,HP,Dell,stb.) megjelenésekor <code>Esc F8 F9 F10 F12</code> billentyű valamelyikével megy, ha nem vagy biztos benne, keress rá a neten a Tiedre (vagy nézz rá [erre a fájlra](https://github.com/mondomata/Windows11Long_Alexa/blob/main/EFI%20Boot%20menu%20keys) ); ha a gépen nincs op.rendszer akkor automatikusan a boot menüvel vagy az USB-ről indul.
+(5.1) *Indítsd el a gépet Boot menü-vel*: legtöbb gépen a gépgyártó logó (Lenovo,HP,Dell,stb.) megjelenésekor <code>Esc F8 F9 F10 F12</code> billentyű valamelyikével megy, ha nem vagy biztos benne, keress rá (vagy nézz rá [erre a fájlra](https://github.com/mondomata/Windows11Long_Alexa/blob/main/EFI%20Boot%20menu%20keys) )
 
 (5.2) *Másik Boot/rendszerindító módszer (Windowsban)*: a Windows Tálcán kattints a **Start &plusb; > Főkapcsoló<kbd>(|)</kbd> > Újraindítás**-ra közben **lenyomva tartva** a <kbd>↑Shift</kbd> billentyűt. 1 percen belül a **"Helyreállítás" módban** indul a gép egy spec.menüvel, ahol keresd/kattintsd az <i>Eszköz /Device/ használata -> USB (a Te USB tárolód neve szerint, pl.Sandisk, Adata, stb...)"</i> lehetőséget, ezután a gép újraindul közvetlenül a telepítőddel<sup>(*6. pont kihagyásával*)</sup>.
 
 (6) Válaszd ki rendszer betöltéshez (rendszerbetöltő menü / Boot menu) az USB tárolód, indul a Windows 11 telepítő <sub>(lehet, hogy a menü listán Mass Storage néven látható az USB)</sub>.
 
 (7) **Két egyszerű lépés (magyarul):** 
--   1️⃣ Lemez választás: legjobb minden partíciót törölni (<u>Törlés</u> paranccsal) a tiszta telepítéshez - eredmény: egyetlen "Szabad terület" (unallocated) partíció lesz, ezt választva a [Tovább] parancs után megtörténik a telepítés.
+-   1️⃣ Lemez választás: legjobb minden partíciót törölni (<u>Törlés</u> paranccsal) a tiszta telepítéshez - eredmény: egyetlen "Szabad terület" (unallocated) lesz, ezt kiválasztva a [Tovább] parancs után megtörténik a telepítés.
 <sup>A képen egy az összes partíció törlését követő lehetséges példa látható erre</sup>
 <img width="399" height="55" alt="{5E6C5921-FECA-48A4-A3B9-418ADBBEF98E}" src="https://github.com/user-attachments/assets/4b287d05-a332-4fa9-9e03-44bde809699a" />
 
