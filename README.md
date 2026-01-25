@@ -77,12 +77,6 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 - 🥇✅ Intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD Ryzen driver telepítő link 💥
 
 > [!TIP]
-> plusz lehetőség (bármely Windowshoz): ✅🥇Powershell parancs a rendszer további optimalizálásához és tisztításához (5*, angol menüvel): 
-> ~~~
-> & ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) 
-> ~~~
->💯 thanks for Raphire 🙏 <sup>(https://github.com/Raphire/Win11Debloat)</sup>
-> <br>
 > (❁´◡`❁) 
 > <sub>🎆 Tipp: ha netkábel dugalj nélküli laptopod van, és nem tudsz a wifire sem csatlakozni, dugd a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a
 > szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a gyártó weboldala.
