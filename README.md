@@ -17,7 +17,7 @@ Minden Windows közül a leghosszabb távon (Long = akár 2034-ig!) támogatott,
 
 Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 hardver korlátozásaival. 
 
-🖥️💻*Min. 4 GB RAM / min.52GB tárhely (ajánlva 60+), és BIOS UEFI rendszerbetöltő. 
+🖥️💻*Minimum*/javasolt rendszer jellemzők: *2*/4 GB RAM, *16*/64GB tárhely, *BIOS*/UEFI rendszerbetöltő, 2009 utáni intel, vagy AMD által javasolt Ryzen proci. 
 Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy hozzám hasonló "mezei" felhasználó vágyik.*
 
 
