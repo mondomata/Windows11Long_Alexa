@@ -80,7 +80,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 > (❁´◡`❁) 
 > <sub>🎆 Tipp: ha netkábel dugalj nélküli laptopod van, és nem tudsz a wifire sem csatlakozni, dugd a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a
 > szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a gyártó weboldala.
-> Javasolt további optimalizálás a https://github.com/builtbybel/Winslop programmal (angol).👌
+> Javasolt további optimalizálás a https://github.com/builtbybel/Winslop programmal (angol, de a program menüben a HELP megnyit egy weboldalt, amelyet lefordíthatsz a böngésződdel).👌
 > <br>
 > ⚠*🙌Tapasztaltabb felhasználóknak
 > <br>
