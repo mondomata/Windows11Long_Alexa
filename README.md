@@ -80,9 +80,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 > (❁´◡`❁) 
 > <sub>🎆 Tipp: ha netkábel dugalj nélküli laptopod van, és nem tudsz a wifire sem csatlakozni, dugd a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a
 > szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a gyártó weboldala.
-> A Microsoft heves érdeklődésének korlátozását és a Windows rendszer optimalizálását tovább növeltheted telepítés után a github.com-on lévő <a href="https://github.com/builtbybel/Crapfixer">Crap Fixer</a> magyar nyelvű programcsomaggal is 2 kattintással elvégezhető
-> szinte minden. 
-><sup>Direkt link: https://github.com/builtbybel/CrapFixer/releases/download/1.18.200/CrapFixer.zip</sup>
+> Javasolt további optimalizálás a https://github.com/builtbybel/Winslop programmal (angol).👌
 > <br>
 > ⚠*🙌Tapasztaltabb felhasználóknak
 > <br>
