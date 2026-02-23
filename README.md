@@ -15,11 +15,7 @@ Minden Windows közül a leghosszabb távon (Long = akár 2034-ig!) támogatott,
 
 [^2]:Miért az Enterprise? Bár a Windows Enterprise kiadás nem magáncélra készül, de páratlan stabilitása, védelmi rendszerei, hosszú távú MS támogatása miatt nagyonis alkalmas magáncélra, úgy, hogy közben semmit sem veszítesz a Windows igazi eszenciájából.
 
-Az "Alexa" a "végtelenségig" (2 lépésre) leegyszerűsíti a telepítést és nem törődik a Windows 11 hardver korlátozásaival. 
-
-🖥️💻*Minimum*/javasolt rendszer jellemzők: *4*/8+ GB RAM, *30*/64+ GB tárhely, UEFI rendszerbetöltő, 2009 utáni intel, vagy AMD által javasolt Ryzen proci. 
-Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy hozzám hasonló "mezei" felhasználó vágyik.*
-
+Az "Alexa" "faékre" egyszerűsíti a telepítést (csak 2 művelet) és nem törődik a Windows 11 hardver korlátozásaival. 
 
 ## 🔽📀Letöltés <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f5d2bb67-6c51-4af8-8597-a8cb65d13a95" />
 📀<a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank"><tt>Win11Long_Alexa.iso</tt></a> (<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
@@ -74,6 +70,9 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 (🥳Nem kötelez téged semmire! Akár minden törölhető is 1 kattintással és/vagy MS Windows programok is telepíthetők...).
 - 🥇✅ Intel driver telepítő, DirectX telepítő (pl. játékosoknak), AMD Ryzen driver telepítő link 💥
 
+🖥️💻*Minimum*/javasolt rendszer jellemzők: *4*/8+ GB RAM, *30*/64+ GB tárhely, UEFI rendszerbetöltő, 2009 utáni intel, vagy AMD által javasolt Ryzen proci. 
+Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office szövegszerk., stb... amire egy hozzám hasonló "mezei" felhasználó vágyik.*
+
 > [!TIP]
 > (❁´◡`❁) 
 > <sub>🎆 Tipp: ha netkábel dugalj nélküli laptopod van, és nem tudsz a wifire sem csatlakozni, dugd a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a
@@ -82,10 +81,10 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 > <br>
 > ⚠*🙌Tapasztaltabb felhasználóknak
 > <br>
-> USB nélküli tiszta és/vagy második Windows telepítési módok: <a href="https://github.com/mondomata/Windows-Simplegood">ide kattintva...</a> 
-> Még sok Windowsságot találhatsz a PublikWindowson <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-">ide kattintva</a>.
+> USB nélküli tiszta és/vagy második Windows telepítési módok vannak <a href="https://github.com/mondomata/Windows-Simplegood">itt...</a> 
+> Még sok Windowsságot találhatsz a PublikWindowson <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-">itt...</a>.
 <hr>
-👌👌👌EXTRA THX / KÖSZÖNET: massgrave, schneegans, memstechtips/Winhance, ntdevlabs/tiny11builder, ß Alexa! :)))
+👌👌👌1000 EXTRA THX / KÖSZÖNET: massgrave, schneegans, memstechtips/Winhance, ntdevlabs/tiny11builder, builtbybel/Winslop ß Alexa! :)))
 <br>
 <sup>A Long Alexa jelenleg az alábbi - szerény - HPProbook440G5 notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
 
