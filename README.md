@@ -1,5 +1,4 @@
-# Windows11Long_Alexa 💥
- <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/03b4c56f-2794-46f5-a494-77ddc5a623bf" />
+# Windows11Long_Alexa💥 <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/03b4c56f-2794-46f5-a494-77ddc5a623bf" />
  
 > [!TIP]
 > &plusb; **Windows 11 régi vagy új gépre, kompromisszumok nélkül! Villámgyors, betonstabil: Windows11Long_Alexa[^1].**
