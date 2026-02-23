@@ -1,4 +1,4 @@
-# Windows11Long_Alexa 💥
+# &#9209; Windows11Long_Alexa 💥
 
 > [!TIP]
 > **Windows 11 régi vagy új gépre, kompromisszumok nélkül! Villámgyors, betonstabil: Windows11Long_Alexa[^1].**
