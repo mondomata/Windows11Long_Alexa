@@ -5,7 +5,7 @@
 [^1]:**Az Alexa névnek semmi köze az azonos hangzású multihoz. ☝️A Windows 10 már csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket 2026.októberig!🤬 Helyette is kiválóan megfelel az itt lévő telepítő😜, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van!**
 
 > [!NOTE]
-> A Te Személyi Számítógéped, a Te Rendszered, a Te Programjaid! 
+> &#9813; A Te Személyi Számítógéped, a Te Rendszered, a Te Programjaid! 
 > Ne engedj be M.(á)S.-t...(❁´◡`❁)
 > Az a legjobb a Windows-ban, hogy minden sz@r kilapátolható belőle, és minden jó beletölthető.
 
