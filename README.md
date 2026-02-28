@@ -1,7 +1,7 @@
 # Windows11Long_Alexa💥 <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/03b4c56f-2794-46f5-a494-77ddc5a623bf" />
  
 > [!TIP]
-> &plusb; **Windows 11 régi vagy új gépre, kompromisszumok nélkül! Villámgyors, betonstabil: Windows11Long_Alexa[^1].**
+> &plusb; **Windows 11 régi vagy új gépre, kompromisszumok nélkül! Villámgyors, betonstabil: Windows11Long_Alexa[^1]**
 [^1]:**Az Alexa névnek semmi köze az azonos hangzású multihoz. ☝️A Windows 10 már csak Microsoft fiókkal regisztrálva kap rendszerbiztonsági frissítéseket 2026.októberig!🤬 Helyette is kiválóan megfelel az itt lévő telepítő😜, ha a gépben 2009 utáni Intel, vagy 2015 utáni AMD processzor van!**
 
 > [!NOTE]
