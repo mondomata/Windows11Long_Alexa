@@ -10,7 +10,7 @@
 > Az a legjobb a Windows-ban, hogy minden sz@r kilapátolható belőle, és minden jó beletölthető.
 
 ## 📢 Mi ez?
-A <tt>Win11Long_Alexa</tt> és <tt>Tiny11_25_Alexa*</tt> <tt>⟪ Windows telepítő ⟫</tt> a Microsoft Windows 11 Enterprise[^2] LTSC 2024<sup>(*2025)</sup>  felhasználásával készült, gyorsabb, stabilabb, mint a többi Windows. Sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. Nem zaklat állandó "fícsör" vagy funkció frissítéssel, ami sokszor destabilizálja kiadásakor a rendszert, a javítások végeláthatatlan során meg bosszankodik a felhasználó! 
+A <tt>Win11Long_Alexa</tt> és <tt>Tiny11_25_Alexa*</tt> <tt>⟪ Windows telepítő ⟫</tt> a Microsoft Windows 11 Enterprise[^2] LTSC 2024<sup>(*2025)</sup>  felhasználásával készült, gyorsabb, stabilabb, mint általában a Windows. Sallang mentes, de minden előnyt élvez, amit egy Windows rendszer tudhat. Nem zaklat állandó "fícsör" vagy funkció frissítéssel, ami sokszor destabilizálja kiadásakor a rendszert, a javítások végeláthatatlan során meg bosszankodik a felhasználó! 
 Minden Windows közül a leghosszabb távon (Long = akár 2034-ig!) támogatott, nem igényel manuális karbantartást, kizárólag szolgáltatási és biztonsági rendszer frissítései stabil, gyors rendszert eredményeznek régebbi gépen is.
 
 [^2]:Miért az Enterprise? Bár a Windows Enterprise kiadás nem magáncélra készül, de páratlan stabilitása, védelmi rendszerei, hosszú távú MS támogatása miatt kiválóan alkalmas magáncélra, úgy, hogy közben semmit sem veszítesz a Windows igazi eszenciájából.
