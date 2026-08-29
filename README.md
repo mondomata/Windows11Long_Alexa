@@ -95,7 +95,7 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 <sup>A Long Alexa jelenleg az alábbi - szerény - HPProbook440G5 notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
 
 > [!NOTE]
-> <tt>🤗A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. (😎A telepítő ingyenes, és az is marad!💝 <sub>☕Ha tetszik, kérlek lájkold a webhelyet és ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata</sub></tt>
+> <tt>🤗A szerző nem informatikai szakember, de 30 éve foglalkozik Windows-sal, elkötelezett a "személyreszóló" Windows telepítéshez biztonságos, stabil eszközök és módszerek használatára, ez a Windows ilyen. 😎A telepítő ingyenes, és az is marad!💝 <sub>☕Ha tetszik, kérlek lájkold a webhelyet és ha meghívnál 1 kávéra, azt legegyszerűbben itt teheted: https://revolut.me/mondomata</sub></tt>
 
 > [!CAUTION]
 > Minden felelősség kizárva a szerző részéről (a leírtak kipróbáltak, jól működnek, viszont a gépek és emberek közötti különbségek akár kirívók is lehetnek).😁😁😁
