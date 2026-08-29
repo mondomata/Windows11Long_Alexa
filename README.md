@@ -39,7 +39,7 @@ Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e
 ## 🛠️<b>Telepítési adathordozó (USB) készítése</b> <sup>*Windows-on</sup>
 
 > [!NOTE]
-> 👌👌👌Ha nincs USB adathordozód, olvasd el <a href="https://github.com/mondomata/Windows-Simplegood">ezt az írást</a>
+> 👌👌👌Nincs USB adathordozód? Vagy nem akarod törölni a tartalmát? Sebaj: olvasd el <a href="https://github.com/mondomata/Windows-Simplegood">ezt az írást</a>
 
 
 (1) Töltsd le az általad kiválasztott <tt><b>.iso</b></tt>-t, majd <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡ezt a Rufust</a>.
