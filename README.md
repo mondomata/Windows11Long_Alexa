@@ -91,14 +91,14 @@ Slussz.😁😁😁 Netezés, stream/youtube, netflix, stb., játék, Office sz�
 > (❁´◡`❁) 
 > <sub>🎆 Tipp: ha netkábel dugalj nélküli laptopod van, és nem tudsz a wifire sem csatlakozni, dugd a töltőkábellel az otthoni wifire kapcsolt telefonod a géphez, és a telón állítsd be az internet megosztást. Ezzel ideiglenes kábelneted lesz a laptopon, hogy a
 > szükséges drivereket, pl. a wifihez elengedhetetlen WLAN drivert telepíteni tudd. Driver telepítéshez legjobb ilyenkor a gyártó weboldala.
-> Javasolt további optimalizálás a https://github.com/builtbybel/Winslop programmal (angol, de a program menüben a HELP megnyit egy weboldalt, amelyet lefordíthatsz a böngésződdel).👌
+> Javasolt további optimalizálás a https://github.com/builtbybel/CrapFixer programmal (angol, de a program menüben a HELP megnyit egy weboldalt, amelyet lefordíthatsz a böngésződdel).👌
 > <br>
 > ⚠*🙌Tapasztaltabb felhasználóknak
 > <br>
 > USB nélküli tiszta és/vagy második Windows telepítési módok vannak <a href="https://github.com/mondomata/Windows-Simplegood">itt...</a> 
 > Még sok Windowsságot találhatsz a PublikWindowson <a href="https://drive.google.com/drive/folders/1trAXtQ0ljkyUHXPSivXU2A5fQhC2ie9-">itt...</a>.
 <hr>
-👌👌👌1000 EXTRA THX / KÖSZÖNET: massgrave, schneegans, memstechtips/Winhance, ntdevlabs/tiny11builder, builtbybel/Winslop ß Alexa! :)))
+👌👌👌1000 EXTRA THX / KÖSZÖNET: massgrave, schneegans, memstechtips/Winhance, ntdevlabs/tiny11builder, builtbybel/ ß Alexa! :)))
 <br>
 <sup>A Long Alexa jelenleg az alábbi - szerény - HPProbook440G5 notebook-on szárnyal: 7.gen. intel i3 CPU, integrált GPU, NVME SSD</sup>
 
