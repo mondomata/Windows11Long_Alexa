@@ -38,10 +38,10 @@ Favorit 👑👑👑:
 Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575) <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa</tt></a>
 
 ## 🛠️<b>Telepítési adathordozó (USB) készítése</b> <sup>*Windows-on</sup>
-<small>
+
 > [!NOTE]
-> 👌👌👌Nincs USB adathordozód? Vagy nem akarod törölni a tartalmát? Sebaj: olvasd el <a href="https://github.com/mondomata/Windows-Simplegood">ezt az írást</a>
-</small>
+> 👌👌👌<small>Nincs USB adathordozód? Vagy nem akarod törölni a tartalmát? Sebaj: olvasd el <a href="https://github.com/mondomata/Windows-Simplegood">ezt az írást</a></small>
+
 
 (1) Töltsd le az általad kiválasztott <tt><b>.iso</b></tt>-t, majd <a href="https://github.com/pbatard/rufus/releases/download/v3.16/rufus-3.16p.exe">➡ezt a Rufust</a>.
 
