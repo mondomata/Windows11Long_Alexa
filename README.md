@@ -18,7 +18,7 @@ Minden Windows közül a leghosszabb távon (Long = akár 2034-ig!) támogatott,
 
 Az "Alexa" "faékre" egyszerűsíti a telepítést (csak 2 művelet) és nem törődik a Windows 11 hardver korlátozásaival. 
 
-## 🔽📀Letöltés <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f5d2bb67-6c51-4af8-8597-a8cb65d13a95" /> <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/22c0adff-e4b4-4a4b-a6cd-ac781c784378" />
+## 🔽 Letöltés <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f5d2bb67-6c51-4af8-8597-a8cb65d13a95" /> <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/22c0adff-e4b4-4a4b-a6cd-ac781c784378" />
 
 <hr>
 Favorit 👑👑👑:
