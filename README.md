@@ -6,7 +6,9 @@
 
 > [!NOTE]
 > &#9813; A Te Személyi Számítógéped, a Te Rendszered, a Te Programjaid! 
-> Ne engedj be M.(á)S.-t...(❁´◡`❁)
+> Ne engedj be M.(á)S.-t...
+>
+> (❁´◡`❁)
 >
 > Az a legjobb a Windows-ban, hogy minden sz@r kilapátolható belőle, és minden jó beletölthető.
 
