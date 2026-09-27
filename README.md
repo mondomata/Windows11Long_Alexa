@@ -20,7 +20,6 @@ Az "Alexa" "faékre" egyszerűsíti a telepítést (csak 2 művelet) és nem tö
 
 ## 🔽 Letöltés <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/f5d2bb67-6c51-4af8-8597-a8cb65d13a95" /> <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/22c0adff-e4b4-4a4b-a6cd-ac781c784378" />
 
-<hr>
 Favorit 👑👑👑:
 
 📀<a href="https://drive.google.com/file/d/17uc-Is9a3VVFY9gjNK9XeGL1wGEKGSxi/view?usp=drive_link">**Win11Long_Alexa2.iso ❤️** (GDrive)</a> vagy <a href="https://mega.nz/file/5BZDXZxI#vSvUNW29OiuVaaE46uuv9KfwhR7ajabGrbBde_qWtMk" target="_blank">Win11Long_Alexa2.iso (Mega)</a> 
