@@ -29,15 +29,14 @@ Favorit 👑👑👑:
 
 🏆**A valaha volt (talán) legjobb magyar tiszta telepítő**" Plusz szolgáltatások: optimalizálva van az iso-ban az .Alexa mappa kezelése (ez egy rövid, közérthető leírás mellett számos jobbnál jobb lehetőséget biztosít a személyre szabásra), több lemezes/partíciós gépen is meglesz. Automatikusan települhet: Chrome böngésző, VLC zene/videólejátszó, XnView képnézegető/szerkesztő, persze törölhetők is...
 
+Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575) <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa</tt></a>
+
  <hr>
 <!--
  📀egy régebbi változat: <a href="https://mega.nz/file/1IRyhIjb#yxWI9-Kp8kTr20mcY-SOENL4KkLg6_sSioQc-Q5f4e8" target="_blank">Win11Long_Alexa.iso</a> (<sup>😷 iso eredetiség ellenőrző összeg:  <tt>322E77E35F3A6C3C8CA7FBD20E9424DB53A5DB54D6920E38BC7AC1F8CA4AC965</tt></sup>)
 -->
 📀<a href="https://mega.nz/file/0RJV0KqS#MCCDTS65tMoSb6BrE1k3K287LZWg77Jo6a2BUr6IDDo" target="_blank">Tiny11_25_Alexa.iso</a>
 <sup>**🤞Új Extra! 😉Kakukktojás! A Windows 11 25H2** "tiny" (kicsi) változata, az eredeti MS 7 GB helyett 5GB telepítő; ez is minden felesleges sallangtól megtisztítva, de anélkül, hogy az élvezeti értéke, használhatósága sérült volna...A Microsoft hardverkövetelményei is kizárva, és "long", várhatóan 2035-ig támogatott a MS által! A Long_Alexa2 szerinti '.Alexa' mappa kezelés és 3 automatikus program telepítés: Chrome, VLC, Xnview itt is lefuthat... viszont eleve nincs Edge böngésző;) </sup>)
-
-
-Youtube ![3721679-youtube_108064](https://github.com/user-attachments/assets/64e3c576-240c-4fb0-a5ee-5a1bad9ea575) <a href="https://m.youtube.com/watch?v=Z-8IMalnQ2E" target="_blank"><tt>Windows 11 Long Alexa</tt></a>
 
 ## 🛠️<b>Telepítési adathordozó (USB) készítése</b> <sup>*Windows-on</sup>
 
